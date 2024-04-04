@@ -1,0 +1,400 @@
+{
+  "leagues": [
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzAwMjg=",
+        "title": "Thai League 3 – Play-offs",
+        "slug": "thai-league-3-play-offs",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - Play-offs เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - Play-offs ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - Play-offs เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - Play-offs ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-play-offs/\",\"url\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-play-offs/\",\"name\":\"Thai League 3 - Play-offs \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-07T12:03:45+00:00\",\"dateModified\":\"2023-03-07T12:03:54+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - Play-offs \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-play-offs/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-play-offs/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-play-offs/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Football Thai Fixtures\",\"item\":\"https://newbackend.buaksib.com/thai-fixtures/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; Play-offs\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzAwMjU=",
+        "title": "Championship Round",
+        "slug": "thai-league-3-championship-round",
+        "content": "Championship Round",
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Championship Round เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Championship Round ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Championship Round เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Championship Round ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-championship-round/\",\"url\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-championship-round/\",\"name\":\"Championship Round \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-07T12:03:14+00:00\",\"dateModified\":\"2023-03-07T12:37:57+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Championship Round \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-championship-round/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-championship-round/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-championship-round/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Football Thai Fixtures\",\"item\":\"https://newbackend.buaksib.com/thai-fixtures/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Championship Round\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzAwMjM=",
+        "title": "Thai Champions Cup",
+        "slug": "thai-championship-league",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai Champions Cup เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai Champions Cup ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai Champions Cup เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai Champions Cup ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-championship-league/\",\"url\":\"https://newbackend.buaksib.com/thai-fixtures/thai-championship-league/\",\"name\":\"Thai Champions Cup \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-07T12:02:38+00:00\",\"dateModified\":\"2023-03-07T12:02:38+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai Champions Cup \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-championship-league/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-fixtures/thai-championship-league/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-championship-league/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Football Thai Fixtures\",\"item\":\"https://newbackend.buaksib.com/thai-fixtures/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai Champions Cup\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzAwMjA=",
+        "title": "Thai League 3 – North",
+        "slug": "thai-league-3-north",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - North เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - North ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - North เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - North ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-north/\",\"url\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-north/\",\"name\":\"Thai League 3 - North \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-07T12:01:57+00:00\",\"dateModified\":\"2023-03-07T12:02:06+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - North \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-north/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-north/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-north/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Football Thai Fixtures\",\"item\":\"https://newbackend.buaksib.com/thai-fixtures/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; North\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzAwMTg=",
+        "title": "Thai League 3 – North East",
+        "slug": "thai-league-3-north-east",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - North East เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - North East ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - North East เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - North East ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-north-east/\",\"url\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-north-east/\",\"name\":\"Thai League 3 - North East \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-07T12:01:20+00:00\",\"dateModified\":\"2023-03-07T12:01:28+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - North East \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-north-east/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-north-east/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-north-east/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Football Thai Fixtures\",\"item\":\"https://newbackend.buaksib.com/thai-fixtures/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; North East\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzAwMTM=",
+        "title": "Thai League 3 – South",
+        "slug": "thai-league-3-south",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - South เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - South ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - South เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - South ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-south/\",\"url\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-south/\",\"name\":\"Thai League 3 - South \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-07T11:53:56+00:00\",\"dateModified\":\"2023-03-07T11:55:03+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - South \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-south/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-south/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-south/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Football Thai Fixtures\",\"item\":\"https://newbackend.buaksib.com/thai-fixtures/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; South\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzAwMDg=",
+        "title": "Thai League 3 – East",
+        "slug": "thai-league-3-east",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - East เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - East ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - East เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - East ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-east/\",\"url\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-east/\",\"name\":\"Thai League 3 - East \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-07T11:53:12+00:00\",\"dateModified\":\"2023-03-07T11:53:12+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - East \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-east/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-east/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-east/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Football Thai Fixtures\",\"item\":\"https://newbackend.buaksib.com/thai-fixtures/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; East\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0Njk5OTg=",
+        "title": "Thai League 3 – West",
+        "slug": "thai-league-3-west",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - West เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - West ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - West เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - West ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-west/\",\"url\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-west/\",\"name\":\"Thai League 3 - West \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-07T11:52:12+00:00\",\"dateModified\":\"2023-03-07T11:52:25+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - West \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-west/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-west/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-west/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Football Thai Fixtures\",\"item\":\"https://newbackend.buaksib.com/thai-fixtures/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; West\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0Njk5OTQ=",
+        "title": "Thai league 3",
+        "slug": "thai-league-3-bkk-perimeter",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai league 3 เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai league 3 ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai league 3 เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai league 3 ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-bkk-perimeter/\",\"url\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-bkk-perimeter/\",\"name\":\"Thai league 3 \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-07T11:50:27+00:00\",\"dateModified\":\"2023-03-07T11:51:09+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai league 3 \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-bkk-perimeter/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-bkk-perimeter/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-3-bkk-perimeter/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Football Thai Fixtures\",\"item\":\"https://newbackend.buaksib.com/thai-fixtures/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai league 3\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0Njk5OTI=",
+        "title": "Thai league 2",
+        "slug": "thai-league-two",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai league 2 เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai league 2 ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai league 2 เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai league 2 ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-two/\",\"url\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-two/\",\"name\":\"Thai league 2 \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-07T11:49:24+00:00\",\"dateModified\":\"2023-03-07T11:49:35+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai league 2 \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-two/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-fixtures/thai-league-two/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-league-two/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Football Thai Fixtures\",\"item\":\"https://newbackend.buaksib.com/thai-fixtures/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai league 2\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0Njk5ODM=",
+        "title": "Thai Premier League",
+        "slug": "thai-premier-league",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai Premier League เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai Premier League ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai Premier League เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai Premier League ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-premier-league/\",\"url\":\"https://newbackend.buaksib.com/thai-fixtures/thai-premier-league/\",\"name\":\"Thai Premier League \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-07T11:41:07+00:00\",\"dateModified\":\"2023-03-07T11:46:40+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai Premier League \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-premier-league/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-fixtures/thai-premier-league/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-fixtures/thai-premier-league/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Football Thai Fixtures\",\"item\":\"https://newbackend.buaksib.com/thai-fixtures/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai Premier League\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    }
+  ]
+}

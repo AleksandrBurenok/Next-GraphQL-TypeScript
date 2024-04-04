@@ -1,0 +1,129 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.wrapperGroups {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 0 29px -1px;
+
+  @include breakpoints.mobile {
+    margin: 0 0 24px 0;
+  }
+}
+
+.group {
+  margin: 0 4px 32px 4px;
+  min-width: 246px;
+  max-width: 246px;
+
+  @include breakpoints.mobile {
+    margin: 0 0 16px 0;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+.wrapperCountries {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.wrapperCountry {
+  display: flex;
+  align-items: center;
+  padding: 6px;
+  border: 1px solid variables.$primary-colors-gray-2;
+  background-color: variables.$primary-colors-white;
+  margin-right: 5px;
+  width: 25%;
+  cursor: pointer;
+
+  &:last-of-type {
+    margin-right: 0;
+  }
+}
+
+.selectedCountry {
+  pointer-events: none;
+  border: 1px solid variables.$primary-color-green5;
+  background-color: variables.$primary-colors-light1;
+}
+
+.nameCountry {
+  text-transform: uppercase;
+  margin-left: 4px;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.selectedTeamWrapper {
+  display: flex;
+  align-items: center;
+  padding: 3px 0;
+}
+
+.selectedPlace {
+  margin-right: 11px;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: normal;
+  color: variables.$primary-colors-darkGray5;
+  min-width: 6.5px;
+}
+
+.placeholderText {
+  font-size: 12px;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.placeholderPlace {
+  margin-left: 3px;
+}
+
+.flagWrapper {
+  margin-right: 8px;
+}
+
+.wrapperPositions {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid variables.$primary-colors-gray-2;
+  background-color: variables.$primary-colors-white;
+  padding: 0 4px;
+}
+
+.dragging {
+  box-shadow: 0 8px 14px 0 rgba(0, 0, 0, 0.09);
+}
+
+.teamNameWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 4px;
+  border-bottom: 1px solid variables.$primary-colors-gray-2;
+  min-height: 43px;
+
+  &:last-of-type {
+    border-bottom: unset;
+  }
+}
+
+.teamNameWrapperDragged {
+  box-shadow: 0 8px 14px 0 rgba(0, 0, 0, 0.09);
+}
+
+.dots {
+  cursor: grab;
+}
+
+.dotsDragged {
+  cursor: grabbing;
+}
+
+.dotsNoDragged {
+  pointer-events: none;
+}

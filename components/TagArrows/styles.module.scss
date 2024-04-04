@@ -1,0 +1,58 @@
+@use 'styles/variables' as variables;
+
+.tagsList {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -5px;
+  margin-left: -5px;
+  list-style: none;
+}
+
+.tagsItem {
+  padding: 5px 5px 5px 15px;
+}
+
+.tags {
+  position: relative;
+  display: flex;
+  padding-right: 10px;
+  padding-left: 15px;
+  line-height: 22px;
+  font-size: 14px;
+  font-weight: 500;
+  color: variables.$primary-colors-white;
+  background-color: variables.$primary-colors-red1;
+  border-radius: 4px;
+  cursor: pointer;
+
+  &:hover,
+  &:active,
+  &:focus {
+    color: variables.$primary-colors-white;
+    text-decoration: none;
+    opacity: 0.8;
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: calc(100% - 2px);
+    border: 11px solid transparent;
+    border-left-width: 0;
+    border-right-color: variables.$primary-colors-red1;
+  }
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 3px;
+    width: 6px;
+    height: 6px;
+    background-color: variables.$primary-colors-white;
+    border-radius: 50%;
+    transform: translateY(-50%);
+  }
+}

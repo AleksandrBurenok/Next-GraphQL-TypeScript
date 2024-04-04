@@ -1,0 +1,35 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.listsMenu {
+  list-style: none;
+
+  @include breakpoints.downTablet {
+    display: flex;
+  }
+}
+
+.listMenu {
+  margin-bottom: 11px;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+.linkMenu {
+  color: variables.$primary-colors-white;
+  opacity: 0.7;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+
+  &:hover {
+    color: variables.$primary-colors-white;
+    opacity: 1;
+  }
+}
+
+.icon {
+  margin-right: 16px;
+}

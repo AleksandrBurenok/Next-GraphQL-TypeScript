@@ -1,0 +1,49 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.tabs {
+  max-width: 1047px;
+}
+
+.wrapper {
+  list-style-type: none;
+  display: flex;
+}
+
+.dropdown {
+  position: absolute;
+  z-index: 1;
+}
+
+.btn {
+  background-color: variables.$primary-colors-white;
+  border: 1px solid variables.$primary-colors-gray-5;
+  border-bottom: unset;
+  width: 72px;
+  height: 53px;
+  display: flex;
+  align-items: center;
+  padding: 0;
+  justify-content: center;
+  cursor: pointer;
+
+  @include breakpoints.mobile {
+    width: 48px;
+    height: 40px;
+  }
+}
+
+.arrow {
+  transform: rotate(-90deg);
+  transition: transform 0.25s;
+
+  path {
+    &:nth-child(2) {
+      fill: variables.$primary-colors-2-000000;
+    }
+  }
+}
+
+.rotate {
+  transform: rotate(0deg);
+}

@@ -1,0 +1,45 @@
+@use 'styles/breakpoints' as breakpoints;
+
+.paper {
+  padding: 0;
+  background-color: transparent;
+  box-shadow: unset;
+  max-width: 90%;
+  margin-top: 70px;
+}
+
+.closeButton {
+  @include breakpoints.downTablet {
+    top: -40px;
+    right: -40px;
+  }
+}
+
+.internal,
+.rootInternal {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 100%;
+
+  @include breakpoints.mobile {
+    flex-direction: column;
+  }
+}
+
+.bannerLink {
+  display: flex;
+
+  &:first-of-type {
+    margin: 0 16px 0 0;
+
+    @include breakpoints.mobile {
+      margin: 0 0 16px 0;
+    }
+  }
+}
+
+.banner {
+  height: auto;
+}

@@ -1,0 +1,290 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.root {
+  background-color: variables.$primary-colors-grey;
+  border-top: 2px solid variables.$primary-colors-red;
+  padding: 22px 28px 40px 40px;
+  overflow: hidden;
+  min-height: 827px;
+
+  @include breakpoints.mobile {
+    margin: 0 -16px;
+    padding: 22px 16px 0 16px;
+    min-height: 1538px;
+  }
+}
+
+.stageTitle {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: normal;
+  color: variables.$primary-colors-2-000000;
+  text-align: center;
+}
+
+.wrapperGroups {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-flow: row wrap;
+  margin: 8px 0 24px 0;
+
+  @include breakpoints.mobile {
+    margin: 8px -6px 0 -6px;
+    justify-content: unset;
+  }
+}
+
+.group {
+  text-align: center;
+
+  @include breakpoints.mobile {
+    margin: 0 6px 24px 6px;
+    width: 29.8%;
+  }
+}
+
+.wrapperPositions {
+  display: flex;
+  flex-direction: column;
+  padding: 0 9px;
+  background-color: variables.$primary-colors-white;
+}
+
+.teamNameWrapper {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid variables.$primary-colors-gray-2;
+  padding: 6px 7px 6px 0;
+
+  &:first-of-type {
+    padding-top: 10px;
+  }
+
+  &:last-of-type {
+    border-bottom: none;
+    padding-bottom: 8px;
+  }
+}
+
+.selectedPlace {
+  font-size: 12px;
+  font-weight: 300;
+  line-height: normal;
+  color: variables.$primary-colors-darkGray5;
+}
+
+.flagWrapper {
+  margin: 0 8px;
+}
+
+.selectedCountryName {
+  font-size: 12px;
+  font-weight: 300;
+  line-height: normal;
+  color: variables.$primary-colors-2-000000;
+  text-transform: uppercase;
+}
+
+.wrapperGroupsNextStages {
+  justify-content: unset;
+  padding: 16px 0;
+  background-color: variables.$primary-colors-white;
+
+  @include breakpoints.mobile {
+    margin: 8px 0 24px 0;
+    padding-bottom: 0;
+  }
+}
+
+.groupNextStages {
+  width: 12.5%;
+  border-right: 1px solid variables.$primary-colors-gray-2;
+
+  &:last-of-type {
+    border-right: none;
+  }
+
+  @include breakpoints.mobile {
+    width: 33.3333%;
+    margin: 0 0 24px 0;
+
+    &:nth-child(3),
+    &:nth-child(6) {
+      border-right: none;
+    }
+  }
+}
+
+.wrapperPositionsNextStages {
+  align-items: center;
+}
+
+.teamNameWrapperNextStages {
+  border-bottom: none;
+  padding: 0;
+
+  &:first-of-type,
+  &:last-of-type {
+    padding: 0;
+  }
+}
+
+.wrapperQuarterSemiFinals {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+
+  .stage {
+    width: 49%;
+
+    .group {
+      width: 25%;
+    }
+
+    &:last-of-type {
+      .group {
+        width: 50%;
+      }
+    }
+  }
+
+  @include breakpoints.mobile {
+    flex-direction: column;
+    margin-bottom: 0;
+
+    .stage {
+      width: 100%;
+
+      .group {
+        width: 50%;
+
+        &:nth-child(2) {
+          border-right: none;
+        }
+
+        &:nth-child(3) {
+          border-right: 1px solid variables.$primary-colors-gray-2;
+        }
+      }
+    }
+  }
+}
+
+.stageFinal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  .wrapperGroups {
+    width: 177px;
+    height: 117px;
+    justify-content: center;
+    padding: 24px 0;
+  }
+
+  .group {
+    width: 100%;
+  }
+
+  .wrapperPositions {
+    padding: 0;
+  }
+
+  .teamNameWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .flagWrapper {
+    margin: 0 0 4px 0;
+  }
+
+  .selectedCountryName {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.29;
+    color: rgba(0, 0, 0, 0.85);
+    text-transform: none;
+  }
+
+  @include breakpoints.mobile {
+    .wrapperGroups {
+      width: 100%;
+    }
+  }
+}
+
+.wrapperButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 40px;
+  margin: auto;
+
+  @include breakpoints.mobile {
+    position: relative;
+    margin: 16px 0 0 0;
+    bottom: unset;
+  }
+}
+
+.bottomText {
+  font-size: 20px;
+  font-weight: normal;
+  line-height: normal;
+  color: variables.$primary-colors-2-000000;
+  margin-bottom: 24px;
+  max-width: 411px;
+}
+
+.makePredictionLink {
+  background-color: variables.$primary-colors-red;
+  border-radius: 4px;
+  color: variables.$primary-colors-white;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: normal;
+  height: 48px;
+  width: 182px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &:hover {
+    background-color: variables.$primary-colors-red1;
+    color: variables.$primary-colors-white;
+  }
+}
+
+.finalPrizeIconLeft {
+  position: absolute;
+  left: -30px;
+  bottom: 31px;
+
+  @include breakpoints.mobile {
+    left: -110px;
+    bottom: -120px;
+  }
+}
+
+.finalPrizeIconRight {
+  position: absolute;
+  right: -50px;
+  bottom: 35px;
+
+  @include breakpoints.mobile {
+    right: -120px;
+    bottom: -110px;
+  }
+}

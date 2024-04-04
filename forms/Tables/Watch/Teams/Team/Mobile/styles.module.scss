@@ -1,0 +1,40 @@
+@use 'styles/variables' as variables;
+
+.team {
+  font-size: 14px;
+  width: 100%;
+
+  &:nth-of-type(odd) {
+    background-color: variables.$primary-colors-grey;
+  }
+}
+
+.wrapperBtn {
+  width: 100%;
+  padding: 0;
+  min-height: 36px;
+  display: flex;
+  align-items: center;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+.wrapperLinks {
+  padding: 15px 0 35px 0;
+  font-weight: 500;
+  line-height: 2;
+}
+
+.titleLinks {
+  color: variables.$primary-colors-darkGray7;
+  margin-bottom: 8px;
+}
+
+.listLinks {
+  list-style-type: none;
+}
+
+.link {
+  color: variables.$primary-colors-red;
+}

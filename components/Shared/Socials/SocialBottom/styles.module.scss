@@ -1,0 +1,33 @@
+@use 'styles/variables' as variables;
+
+.socialLinks {
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.link {
+  display: flex;
+  margin-right: 24px;
+
+  &:last-of-type {
+    margin-right: 0;
+  }
+}
+
+.iconFacebook,
+.iconInstagram {
+  path {
+    &:first-of-type {
+      fill: variables.$primary-colors-red;
+    }
+  }
+}
+
+.icon {
+  path {
+    &:nth-child(-n + 2) {
+      fill: variables.$primary-colors-red;
+    }
+  }
+}

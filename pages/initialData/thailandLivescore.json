@@ -1,0 +1,644 @@
+{
+  "leagues": [
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzIxNzc=",
+        "title": "คำถามที่พบบ่อย",
+        "slug": "thai-premier-league",
+        "content": "<html><body><h1 data-pm-slice=\"1 1 []\">ติดตามผลบอลไทย</h1><p data-pm-slice=\"1 1 []\">บอลไทยลีก หรือที่เรียกว่า ไทยลีก เป็นลีกฟุตบอลอาชีพชั้นนำของประเทศไทย 16 ทีม แต่ละทีมเล่น 30 นัดตลอดทั้งฤดูกาล โดยปกติฤดูกาลจะเริ่มตั้งแต่เดือนกุมภาพันธ์ถึงเดือนตุลาคม และรวมถึงช่วงพักกลางฤดูในช่วงฤดูร้อน</p><p>ลีกมีมาตั้งแต่ปี 1996 และมีการเติบโตอย่างมากในช่วงหลายปีที่ผ่านมา ด้วยการลงทุนที่เพิ่มขึ้นจากผู้สนับสนุนและเจ้าของสโมสร ในช่วงไม่กี่ปีที่ผ่านมา ลีกมีการแข่งขันสูงขึ้น โดยทีมอย่างบุรีรัมย์ ยูไนเต็ด, เมืองทอง ยูไนเต็ด และเชียงราย ยูไนเต็ด</p><p>ติดตามผลบอล ตารางคะแนน อัพเดทล่าสุดลีกผ่านเว็บไซต์ผลบอลสดของเรา แพลตฟอร์มของเราครอบคลุมทุกทีมและให้ข้อมูลผลบอล ตารางคะแนนอัปเดตตามเวลาจริงเกี่ยวกับการแข่งขันที่เกิดขึ้น!",
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "ข่าวดีสำหรับสาวกฟุตบอล! ผลบอลไทยปี 2023 มาแรงแล้ววันนี้ - ตารางคะแนนการแข่งขันฟุตบอลไทย",
+          "metaDesc": "ติดตามผลบอลไทยล่าสุด พร้อมทั้งตารางคะแนนผลการแข่งขันฟุตบอลไทย ที่เว็บไซต์ของเรา ไม่พลาดข่าวสารเกี่ยวกับทีมชาติไทย และการแข่งขันในลีกชั้นนำของประเทศไทย พร้อมทั้งดูสถิติการแข่งขันอย่างละเอียด อัพเดททันใจ ที่นี่บวกสิบ",
+          "opengraphTitle": "ข่าวดีสำหรับสาวกฟุตบอล! ผลบอลไทยปี 2023 มาแรงแล้ววันนี้ - ตารางคะแนนการแข่งขันฟุตบอลไทย",
+          "opengraphDescription": "ติดตามผลบอลไทยล่าสุด พร้อมทั้งตารางคะแนนผลการแข่งขันฟุตบอลไทย ที่เว็บไซต์ของเรา ไม่พลาดข่าวสารเกี่ยวกับทีมชาติไทย และการแข่งขันในลีกชั้นนำของประเทศไทย พร้อมทั้งดูสถิติการแข่งขันอย่างละเอียด อัพเดททันใจ ที่นี่บวกสิบ",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-premier-league/\",\"url\":\"https://newbackend.buaksib.com/thai-livescore/thai-premier-league/\",\"name\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e14\\u0e35\\u0e2a\\u0e33\\u0e2b\\u0e23\\u0e31\\u0e1a\\u0e2a\\u0e32\\u0e27\\u0e01\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25! \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e44\\u0e17\\u0e22\\u0e1b\\u0e35 2023 \\u0e21\\u0e32\\u0e41\\u0e23\\u0e07\\u0e41\\u0e25\\u0e49\\u0e27\\u0e27\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49 - \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19\\u0e01\\u0e32\\u0e23\\u0e41\\u0e02\\u0e48\\u0e07\\u0e02\\u0e31\\u0e19\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e44\\u0e17\\u0e22\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-13T08:01:48+00:00\",\"dateModified\":\"2023-06-06T13:07:12+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21\\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e44\\u0e17\\u0e22\\u0e25\\u0e48\\u0e32\\u0e2a\\u0e38\\u0e14 \\u0e1e\\u0e23\\u0e49\\u0e2d\\u0e21\\u0e17\\u0e31\\u0e49\\u0e07\\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19\\u0e1c\\u0e25\\u0e01\\u0e32\\u0e23\\u0e41\\u0e02\\u0e48\\u0e07\\u0e02\\u0e31\\u0e19\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e44\\u0e17\\u0e22 \\u0e17\\u0e35\\u0e48\\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32 \\u0e44\\u0e21\\u0e48\\u0e1e\\u0e25\\u0e32\\u0e14\\u0e02\\u0e48\\u0e32\\u0e27\\u0e2a\\u0e32\\u0e23\\u0e40\\u0e01\\u0e35\\u0e48\\u0e22\\u0e27\\u0e01\\u0e31\\u0e1a\\u0e17\\u0e35\\u0e21\\u0e0a\\u0e32\\u0e15\\u0e34\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e01\\u0e32\\u0e23\\u0e41\\u0e02\\u0e48\\u0e07\\u0e02\\u0e31\\u0e19\\u0e43\\u0e19\\u0e25\\u0e35\\u0e01\\u0e0a\\u0e31\\u0e49\\u0e19\\u0e19\\u0e33\\u0e02\\u0e2d\\u0e07\\u0e1b\\u0e23\\u0e30\\u0e40\\u0e17\\u0e28\\u0e44\\u0e17\\u0e22 \\u0e1e\\u0e23\\u0e49\\u0e2d\\u0e21\\u0e17\\u0e31\\u0e49\\u0e07\\u0e14\\u0e39\\u0e2a\\u0e16\\u0e34\\u0e15\\u0e34\\u0e01\\u0e32\\u0e23\\u0e41\\u0e02\\u0e48\\u0e07\\u0e02\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e25\\u0e30\\u0e40\\u0e2d\\u0e35\\u0e22\\u0e14 \\u0e2d\\u0e31\\u0e1e\\u0e40\\u0e14\\u0e17\\u0e17\\u0e31\\u0e19\\u0e43\\u0e08 \\u0e17\\u0e35\\u0e48\\u0e19\\u0e35\\u0e48\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-premier-league/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-livescore/thai-premier-league/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-premier-league/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e1e\\u0e23\\u0e35\\u0e40\\u0e21\\u0e35\\u0e22\\u0e23\\u0e4c\\u0e25\\u0e35\\u0e01 | Thai Premier League\",\"item\":\"https://newbackend.buaksib.com/thai-livescore/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"\\u0e04\\u0e33\\u0e16\\u0e32\\u0e21\\u0e17\\u0e35\\u0e48\\u0e1e\\u0e1a\\u0e1a\\u0e48\\u0e2d\\u0e22\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        },
+        "livescore": {
+          "__typename": "Page_Livescore",
+          "faq": [
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<html><body><p data-pm-slice=\"1 1 []\">ฟุตบอลไทยลีก เป็นลีกฟุตบอลอาชีพชั้นนำของประเทศไทย มีชื่ออย่างเป็นทางการว่า ไทยลีก 1 จัดโดยสมาคมฟุตบอลแห่งประเทศไทย (FAT) ประกอบด้วย 16 ทีมที่แข่งขันแบบพบกันหมด",
+              "question": "ฟุตบอลไทยลีก คืออะไร?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<html><body><p data-pm-slice=\"1 1 []\">ลีกก่อตั้งขึ้นในปี พ.ศ. 2539 แม้ว่าฤดูกาลแรกจะยังไม่เริ่มจนกระทั่งในปีถัดมา",
+              "question": "ฟุตบอลไทยลีกก่อตั้งขึ้นเมื่อใด"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<html><body><p data-pm-slice=\"1 1 []\">ฤดูกาลมักจะเริ่มตั้งแต่เดือนกุมภาพันธ์ถึงเดือนตุลาคม โดยแต่ละทีมจะลงเล่นทั้งหมด 30 นัด",
+              "question": "ลีกมีกี่ฤดูกาล?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<html><body><p data-pm-slice=\"1 1 []\">ทีมที่เล่นในลีกในปัจจุบัน ได้แก่ บีจี ปทุม ยูไนเต็ด การท่าเรือ เอฟซี เมืองทอง ยูไนเต็ดบุรีรัมย์ ยูไนเต็ดชลบุรี เอฟซีโปลิศเทโรเชียงราย ยูไนเต็ดราชบุรี มิตรผล เอฟซีนครราชสีมา เอฟซีสุโขทัย เอฟซีสุพรรณบุรี เอฟซีสมุทรปราการ ซิตี้ เอฟซีตราด เอฟซีระยอง เอฟซีพีที ประจวบ แบงค็อก ยูไนเต็ด",
+              "question": "ฟุตบอลไทยลีกมีทีมอะไรบ้าง?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<html><body><p data-pm-slice=\"1 1 []\">บุรีรัมย์ ยูไนเต็ด ครองสถิติแชมป์มากที่สุด โดยได้แชมป์ 8 สมัย เมืองทอง ยูไนเต็ด และ เอสซีจี เมืองทอง ยูไนเต็ด (เดิมชื่อ บีอีซี เทโรศาสน) ตามมาด้วยทีมละ 7 แชมป์",
+              "question": "ทีมใดคว้าแชมป์ฟุตบอลไทยลีกมากที่สุด?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<html><body><p data-pm-slice=\"1 1 []\">ฟุตบอลไทยลีกใช้รูปแบบการแข่งขันแบบพบกันหมด 2 ครั้ง หมายความว่าแต่ละทีมจะพบกับทีมอื่นทั้งหมด 2 ครั้ง (ในบ้าน 1 ครั้ง และนอกบ้าน 1 ครั้ง) ทีมที่มีแต้มมากที่สุดเมื่อสิ้นสุดฤดูกาลจะได้ครองตำแหน่งแชมป์ ในขณะที่ 3 ทีมสุดท้ายตกชั้นสู่ไทยลีก 2",
+              "question": "ฟุตบอลไทยลีกมีรูปแบบอย่างไร?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<html><body><p data-pm-slice=\"1 1 []\">มีผู้เล่นเก่งๆ มากมายในฟุตบอลไทยลีก แต่ที่โดดเด่นที่สุดได้แก่:ดิโอโก หลุยส์ ซานโต (บุรีรัมย์ ยูไนเต็ด) เฮเบอร์ตี้ แฟร์นานเดส (การท่าเรือ เอฟซี) เลอันโดร อัสสัมชัญ (บีจี ปทุม ยูไนเต็ด) ชนาธิป สรงกระสินธ์ (ฮอกไกโด คอนซาโดเล ซัปโปโร ยืมตัวมาจาก เมืองทอง ยูไนเต็ด) ธีรศิลป์ แดงดา (บีจี ปทุม ยูไนเต็ด)",
+              "question": "นักเตะชั้นนำของบอลไทยลีกมีใครบ้าง?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<html><body><p data-pm-slice=\"1 1 []\">บีจี ปทุม ยูไนเต็ด, การท่าเรือ เอฟซี และบุรีรัมย์ ยูไนเต็ด กำลังเป็นคู่แข่งที่แข็งแกร่งที่สุดสำหรับตำแหน่งแชมป์ โดยพิจารณาจากผลงานล่าสุดและขุมกำลังที่แข็งแกร่ง",
+              "question": "ทีมใดที่แข็งแกร่งที่สุดในการลุ้นแชมป์ฟุตบอลไทยลีก?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<html><body><p data-pm-slice=\"1 1 []\">ใช่ ฟุตบอลไทยได้รับการยอมรับจากสมาพันธ์ฟุตบอลแห่งเอเชีย (AFC) และแชมป์ลีกมีสิทธิ์เข้าร่วมการแข่งขันเอเอฟซีแชมเปียนส์ลีก ซึ่งเป็นการแข่งขันระดับสโมสรชั้นนำของเอเชีย</p><p>นอกจากลีกในประเทศแล้ว ทีมไทยยังแข่งขันในระดับทวีป เช่น AFC Champions League และ AFC Cup ทัวร์นาเมนต์เหล่านี้เปิดโอกาสให้ทีมได้ทดสอบทักษะกับทีมที่ดีที่สุดจากทั่วเอเชีย และช่วยยกระดับวงการฟุตบอลไทยในเวทีระดับโลก</p><p data-pm-slice=\"1 1 []\">ฟุตบอลไทยยังมีบทบาทสำคัญในการพัฒนากีฬาในประเทศไทย สโมสรหลายแห่งในลีกดำเนินโครงการเข้าถึงชุมชนและความคิดริเริ่มเพื่อส่งเสริมฟุตบอลระดับรากหญ้าและกระตุ้นให้ผู้คนเข้ามามีส่วนร่วมในกีฬามากขึ้น ซึ่งรวมถึงโครงการสนับสนุนผู้เล่นอายุน้อยจากภูมิหลังที่ด้อยโอกาส ตลอดจนความพยายามในการเพิ่มการมีส่วนร่วมของผู้หญิงในวงการฟุตบอล",
+              "question": "ฟุตบอลไทยลีกได้รับการยอมรับในระดับสากลหรือไม่?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<html><body><p data-pm-slice=\"1 1 []\">ฟุตบอลไทยโดยทั่วไปถือว่าเป็นหนึ่งในลีกฟุตบอลที่แข็งแกร่งที่สุดในเอเชียตะวันออกเฉียงใต้ แต่ก็ยังตามหลังลีกชั้นนำในเอเชียตะวันออก เช่น เจลีกในญี่ปุ่น และไชนีสซูเปอร์ลีกในประเทศจีน อย่างไรก็ตาม ฟุตบอลไทยลีกมีการเติบโตและพัฒนาขึ้นอย่างมากในช่วงไม่กี่ปีที่ผ่านมา ด้วยการไหลเข้าของผู้เล่นและโค้ชต่างชาติที่มีส่วนทำให้การแข่งขันโดยรวมของลีกดีขึ้น",
+              "question": "ฟุตบอลไทยลีกอยู่ในระดับใดเมื่อเทียบกับลีกอื่นๆ ในเอเชีย?"
+            }
+          ]
+        },
+        "pageFields": {
+          "__typename": "Page_Pagefields",
+          "shortTitle": "ไทยพรีเมียร์ลีก"
+        },
+        "livescoreOther": {
+          "__typename": "Page_Livescoreother",
+          "iframeImage": {
+            "__typename": "MediaItem",
+            "altText": "thai premier league",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/thai-league-t1.png"
+          }
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzIxNzU=",
+        "title": "Thai League 3 – West",
+        "slug": "thai-league-3-west",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - West เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - West ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - West เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - West ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-west/\",\"url\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-west/\",\"name\":\"Thai League 3 - West \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-13T08:01:14+00:00\",\"dateModified\":\"2023-03-13T08:01:14+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - West \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-west/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-west/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-west/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e1e\\u0e23\\u0e35\\u0e40\\u0e21\\u0e35\\u0e22\\u0e23\\u0e4c\\u0e25\\u0e35\\u0e01 | Thai Premier League\",\"item\":\"https://newbackend.buaksib.com/thai-livescore/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; West\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        },
+        "livescore": {
+          "__typename": "Page_Livescore",
+          "faq": null
+        },
+        "pageFields": {
+          "__typename": "Page_Pagefields",
+          "shortTitle": null
+        },
+        "livescoreOther": {
+          "__typename": "Page_Livescoreother",
+          "iframeImage": null
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzIxNzM=",
+        "title": "Thai League 3 – South",
+        "slug": "thai-league-3-south",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - South เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - South ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - South เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - South ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-south/\",\"url\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-south/\",\"name\":\"Thai League 3 - South \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-13T08:00:43+00:00\",\"dateModified\":\"2023-03-13T08:00:43+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - South \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-south/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-south/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-south/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e1e\\u0e23\\u0e35\\u0e40\\u0e21\\u0e35\\u0e22\\u0e23\\u0e4c\\u0e25\\u0e35\\u0e01 | Thai Premier League\",\"item\":\"https://newbackend.buaksib.com/thai-livescore/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; South\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        },
+        "livescore": {
+          "__typename": "Page_Livescore",
+          "faq": null
+        },
+        "pageFields": {
+          "__typename": "Page_Pagefields",
+          "shortTitle": null
+        },
+        "livescoreOther": {
+          "__typename": "Page_Livescoreother",
+          "iframeImage": null
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzIxNzE=",
+        "title": "Thai League 3 – Play-offs",
+        "slug": "thai-league-3-play-offs",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - Play-offs เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - Play-offs ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - Play-offs เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - Play-offs ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-play-offs/\",\"url\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-play-offs/\",\"name\":\"Thai League 3 - Play-offs \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-13T08:00:13+00:00\",\"dateModified\":\"2023-03-13T08:00:13+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - Play-offs \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-play-offs/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-play-offs/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-play-offs/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e1e\\u0e23\\u0e35\\u0e40\\u0e21\\u0e35\\u0e22\\u0e23\\u0e4c\\u0e25\\u0e35\\u0e01 | Thai Premier League\",\"item\":\"https://newbackend.buaksib.com/thai-livescore/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; Play-offs\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        },
+        "livescore": {
+          "__typename": "Page_Livescore",
+          "faq": null
+        },
+        "pageFields": {
+          "__typename": "Page_Pagefields",
+          "shortTitle": null
+        },
+        "livescoreOther": {
+          "__typename": "Page_Livescoreother",
+          "iframeImage": null
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzIxNjk=",
+        "title": "Thai League 3 – North East",
+        "slug": "thai-league-3-north-east",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - North East เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - North East ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - North East เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - North East ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-north-east/\",\"url\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-north-east/\",\"name\":\"Thai League 3 - North East \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-13T07:59:42+00:00\",\"dateModified\":\"2023-03-13T07:59:42+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - North East \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-north-east/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-north-east/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-north-east/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e1e\\u0e23\\u0e35\\u0e40\\u0e21\\u0e35\\u0e22\\u0e23\\u0e4c\\u0e25\\u0e35\\u0e01 | Thai Premier League\",\"item\":\"https://newbackend.buaksib.com/thai-livescore/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; North East\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        },
+        "livescore": {
+          "__typename": "Page_Livescore",
+          "faq": null
+        },
+        "pageFields": {
+          "__typename": "Page_Pagefields",
+          "shortTitle": null
+        },
+        "livescoreOther": {
+          "__typename": "Page_Livescoreother",
+          "iframeImage": null
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzIxNjc=",
+        "title": "Thai League 3 – North",
+        "slug": "thai-league-3-north",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - North เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - North ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - North เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - North ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-north/\",\"url\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-north/\",\"name\":\"Thai League 3 - North \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-13T07:59:12+00:00\",\"dateModified\":\"2023-03-13T07:59:12+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - North \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-north/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-north/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-north/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e1e\\u0e23\\u0e35\\u0e40\\u0e21\\u0e35\\u0e22\\u0e23\\u0e4c\\u0e25\\u0e35\\u0e01 | Thai Premier League\",\"item\":\"https://newbackend.buaksib.com/thai-livescore/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; North\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        },
+        "livescore": {
+          "__typename": "Page_Livescore",
+          "faq": null
+        },
+        "pageFields": {
+          "__typename": "Page_Pagefields",
+          "shortTitle": null
+        },
+        "livescoreOther": {
+          "__typename": "Page_Livescoreother",
+          "iframeImage": null
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzIxNjU=",
+        "title": "Thai League 3 – East",
+        "slug": "thai-league-3-east",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - East เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - East ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - East เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - East ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-east/\",\"url\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-east/\",\"name\":\"Thai League 3 - East \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-13T07:58:41+00:00\",\"dateModified\":\"2023-03-13T07:58:41+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - East \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-east/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-east/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-east/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e1e\\u0e23\\u0e35\\u0e40\\u0e21\\u0e35\\u0e22\\u0e23\\u0e4c\\u0e25\\u0e35\\u0e01 | Thai Premier League\",\"item\":\"https://newbackend.buaksib.com/thai-livescore/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; East\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        },
+        "livescore": {
+          "__typename": "Page_Livescore",
+          "faq": null
+        },
+        "pageFields": {
+          "__typename": "Page_Pagefields",
+          "shortTitle": null
+        },
+        "livescoreOther": {
+          "__typename": "Page_Livescoreother",
+          "iframeImage": null
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzIxNjM=",
+        "title": "ไทยลีก 3 | Thai League 3",
+        "slug": "thai-league-3-bkk-perimeter",
+        "content": "<span style=\"font-weight: 400;\">ด้วย 18 ทีมที่แข่งขันกันเพื่อเลื่อนชั้นสู่ไทยลีก 2 ไทยลีก 3 เป็นลีกฟุตบอลอาชีพระดับที่สามของประเทศไทย</span></p><p>นี่คือเหตุผลบางประการที่คุณควรติดตาม<a href=\"https://www.buaksib.com/livescore/\"><b>ผลบอลสด</b></a>ไทยลีก 3 บนเว็บไซต์ของเรา:</p><ol><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\"> การแข่งขันที่น่าตื่นเต้น: ไทยลีก 3 มีการแข่งขันที่น่าตื่นเต้นมากมายในทุกฤดูกาล โดยมีทีมจากทั่วประเทศต่อสู้กันในสนามเพื่อเลื่อนชั้น ลีกนี้ขึ้นชื่อเรื่องการแข่งขันซึ่งมักสร้างผลลัพธ์ที่น่าประหลาดใจและพลิกผันอย่างคาดไม่ถึง</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">ผู้เล่นดาวรุ่ง: ผู้เล่นดาวรุ่งหลายคนเริ่มต้นในไทยลีก 3 ทำให้เป็นลีกที่ยอดเยี่ยมในการติดตามหากคุณสนใจที่จะค้นพบความสามารถใหม่ ๆ ผู้เล่นเหล่านี้มักจะไปเล่นในระดับที่สูงขึ้นและแม้กระทั่งเป็นตัวแทนของทีมชาติไทย</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">ความหลากหลายในระดับภูมิภาค: ด้วยทีมจากทั่วประเทศไทย ไทยลีก 3 นำเสนอมุมมองที่ไม่เหมือนใครเกี่ยวกับวัฒนธรรมฟุตบอลของประเทศ คุณจะได้เห็นว่าทีมจากภูมิภาคต่างๆ เล่นเกมอย่างไร และพวกเขานำสไตล์ที่เป็นเอกลักษณ์ของตัวเองมาสู่สนามได้อย่างไร</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">ศึกเลื่อนชั้น: ไทยลีก 3 เป็นก้าวสำคัญสำหรับทีมที่ต้องการเลื่อนชั้นสู่ไทยลีก 2 ด้วยเหตุนี้ ลีกจึงเต็มไปด้วยศึกเลื่อนชั้น โดยทีมต่อสู้ฟันฝ่าเพื่อจบในสองอันดับแรกของ ตารางลีก</span></li></ol><p><img loading=\"lazy\" class=\"size-medium wp-image-493360 aligncenter\" src=\"https:\\/\\/newbackend.buaksib.com/wp-content/uploads/2023/05/thai-500x281.webp\" alt=\" ไทยลีก 3 | THAI LEAGUE 3\" width=\"500\" height=\"281\" srcset=\"https://newbackend.buaksib.com/wp-content/uploads/2023/05/thai-500x281.webp 500w, https://newbackend.buaksib.com/wp-content/uploads/2023/05/thai-1024x576.webp 1024w, https://newbackend.buaksib.com/wp-content/uploads/2023/05/thai-768x432.webp 768w, https://newbackend.buaksib.com/wp-content/uploads/2023/05/thai.webp 1280w\" sizes=\"(max-width: 500px) 100vw, 500px\" title=\" ไทยลีก 3 | THAI LEAGUE 3\"></p><h2><span style=\"font-weight: 400;\">ตามผลบอลสดไทยลีก 3</span></h2><p><span style=\"font-weight: 400;\">ฟุตบอลไทยเติบโตอย่างรวดเร็วในช่วงไม่กี่ปีมานี้ โดยทีมชาติประสบความสำเร็จครั้งใหม่ และลีกในประเทศมีการแข่งขันสูงขึ้น โดยเฉพาะลีกหนึ่งที่แสดงความสามารถของฟุตบอลไทยที่กำลังมาแรงคือไทยลีก 3 ลีกนี้อาจไม่ได้รับการยอมรับในระดับเดียวกับลีกชั้นนำ แต่ก็น่าตื่นเต้นไม่น้อยและให้แฟน ๆ ส่องอนาคตบอลไทย</span></p><p><span style=\"font-weight: 400;\">ไทยลีก 3 หรือที่เรียกว่าแชมป์ไทยลีก 3 เป็นฟุตบอลอาชีพระดับที่สามของประเทศไทย ก่อตั้งขึ้นในปี พ.ศ. 2560 โดยเป็นส่วนหนึ่งของการปรับโครงสร้างระบบฟุตบอลลีกของไทย และปัจจุบันประกอบด้วย 62 ทีม แบ่งออกเป็น 6 กลุ่มภูมิภาค ทีมชั้นนำจากแต่ละกลุ่มจะเข้าสู่รอบตัดเชือก โดยผู้ชนะจะได้เลื่อนชั้นสู่ไทยลีก 2 ในฤดูกาลถัดไป</span></p><p><span style=\"font-weight: 400;\">หนึ่งในแง่มุมที่น่าตื่นเต้นที่สุดของไทยลีก 3 คือการแสดงความสามารถของเยาวชนที่มีอยู่มากมาย นักเตะหลายคนในลีกอายุไม่เกิน 23 ปี และกำลังต้องการสร้างชื่อให้ตัวเองในวงการฟุตบอลไทย นี่เป็นโอกาสที่ยอดเยี่ยมสำหรับแฟน ๆ ที่จะค้นพบดาวรุ่งของฟุตบอลไทยก่อนที่จะก้าวไปสู่ระดับสูงสุด</span></p><p><span style=\"font-weight: 400;\">อีกเหตุผลหนึ่งที่ต้องติดตามไทยลีก 3 คือจำนวนทีมที่แท้จริงในลีก ด้วย 62 ทีมที่กระจายออกไปในหกกลุ่ม มีเกมให้ดูเสมอและทีมใหม่ให้ค้นพบ สิ่งนี้ทำให้ลีกมีความหลากหลายอย่างไม่น่าเชื่อ โดยมีทีมที่มาจากทั่วทุกมุมของประเทศไทยและเป็นตัวแทนของชุมชนและฐานแฟน ๆ ที่หลากหลาย</span></p><p><span style=\"font-weight: 400;\">ไทยลีก 3 ยังมอบประสบการณ์ที่ไม่เหมือนใครให้กับแฟนบอลที่กำลังมองหาสิ่งที่แตกต่างจากลีกชั้นนำทั่วไป ด้วยสนามกีฬาที่เล็กลงและการรายงานข่าวของสื่อน้อยลง บรรยากาศในเกมเหล่านี้จึงมีความใกล้ชิดและให้ความสำคัญกับชุมชนมากขึ้น แฟนบอลสามารถรู้สึกผูกพันกับทีมและผู้เล่นมากขึ้น และสัมผัสกับอีกด้านของฟุตบอลไทยที่มักถูกมองข้าม</span><br><span style=\"font-weight: 400;\">สรุปแล้วไทยลีก 3 เป็นลีกที่เต็มไปด้วยความตื่นเต้น ความสามารถ และศักยภาพ สำหรับแฟน ๆ ที่ต้องการค้นพบดาวรุ่งของฟุตบอลไทยและสัมผัสกับด้านอื่น ๆ ของกีฬา ลีกนี้เป็นสิ่งที่ต้องดู ด้วย 62 ทีมที่กระจายอยู่ในหกกลุ่มภูมิภาค จึงมีเกมให้ดูเสมอและทีมใหม่ให้ค้นพบ แล้วทำไมไม่ลองดูไทยบนเว็บไซต์</span><a href=\"https://www.buaksib.com/livescore/\"><b>ผลบอลสดไทย</b></a><span style=\"font-weight: 400;\">ของเรา และค้นพบอนาคตของฟุตบอลไทยล่ะ?<img loading=\"lazy\" class=\"alignnone size-full wp-image-493031\" src=\"https://www.buaksib.com/wp-content/uploads/2023/05/leaggue3.jpg\" alt=\"ไทยลีก 3\" width=\"247\" height=\"252\" title=\"ไทยลีก 3\"></span>",
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "ไทยลีก 3 | Thai League 3 เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ฟุตบอลไทยเติบโตอย่างรวดเร็วในช่วงไม่กี่ปีมานี้ โดยเฉพาะลีกหนึ่งที่แสดงความสามารถของฟุตบอลไทยที่กำลังมาแรงคือไทยลีก 3 ลีกนี้อาจไม่ได้รับการยอมรับในระดับเดียวกับลีกชั้นนำ",
+          "opengraphTitle": "ไทยลีก 3 | Thai League 3 เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ฟุตบอลไทยเติบโตอย่างรวดเร็วในช่วงไม่กี่ปีมานี้ โดยเฉพาะลีกหนึ่งที่แสดงความสามารถของฟุตบอลไทยที่กำลังมาแรงคือไทยลีก 3 ลีกนี้อาจไม่ได้รับการยอมรับในระดับเดียวกับลีกชั้นนำ",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": null,
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-bkk-perimeter/#primaryimage\",\"url\":\"https://www.buaksib.com/wp-content/uploads/2023/05/leaggue3.jpg\",\"contentUrl\":\"https://www.buaksib.com/wp-content/uploads/2023/05/leaggue3.jpg\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-bkk-perimeter/\",\"url\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-bkk-perimeter/\",\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01 3 | Thai League 3 \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-bkk-perimeter/#primaryimage\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-bkk-perimeter/#primaryimage\"},\"thumbnailUrl\":\"https://www.buaksib.com/wp-content/uploads/2023/05/leaggue3.jpg\",\"datePublished\":\"2023-03-13T07:57:57+00:00\",\"dateModified\":\"2023-06-06T13:12:44+00:00\",\"description\":\"\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e44\\u0e17\\u0e22\\u0e40\\u0e15\\u0e34\\u0e1a\\u0e42\\u0e15\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e23\\u0e27\\u0e14\\u0e40\\u0e23\\u0e47\\u0e27\\u0e43\\u0e19\\u0e0a\\u0e48\\u0e27\\u0e07\\u0e44\\u0e21\\u0e48\\u0e01\\u0e35\\u0e48\\u0e1b\\u0e35\\u0e21\\u0e32\\u0e19\\u0e35\\u0e49 \\u0e42\\u0e14\\u0e22\\u0e40\\u0e09\\u0e1e\\u0e32\\u0e30\\u0e25\\u0e35\\u0e01\\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07\\u0e17\\u0e35\\u0e48\\u0e41\\u0e2a\\u0e14\\u0e07\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2a\\u0e32\\u0e21\\u0e32\\u0e23\\u0e16\\u0e02\\u0e2d\\u0e07\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e44\\u0e17\\u0e22\\u0e17\\u0e35\\u0e48\\u0e01\\u0e33\\u0e25\\u0e31\\u0e07\\u0e21\\u0e32\\u0e41\\u0e23\\u0e07\\u0e04\\u0e37\\u0e2d\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01 3 \\u0e25\\u0e35\\u0e01\\u0e19\\u0e35\\u0e49\\u0e2d\\u0e32\\u0e08\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e23\\u0e31\\u0e1a\\u0e01\\u0e32\\u0e23\\u0e22\\u0e2d\\u0e21\\u0e23\\u0e31\\u0e1a\\u0e43\\u0e19\\u0e23\\u0e30\\u0e14\\u0e31\\u0e1a\\u0e40\\u0e14\\u0e35\\u0e22\\u0e27\\u0e01\\u0e31\\u0e1a\\u0e25\\u0e35\\u0e01\\u0e0a\\u0e31\\u0e49\\u0e19\\u0e19\\u0e33\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-bkk-perimeter/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-bkk-perimeter/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-bkk-perimeter/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e1e\\u0e23\\u0e35\\u0e40\\u0e21\\u0e35\\u0e22\\u0e23\\u0e4c\\u0e25\\u0e35\\u0e01 | Thai Premier League\",\"item\":\"https://newbackend.buaksib.com/thai-livescore/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01 3 | Thai League 3\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        },
+        "livescore": {
+          "__typename": "Page_Livescore",
+          "faq": [
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<span style=\"font-weight: 400;\"> ไทยลีก 3 มีทั้งหมด 32 ทีม</span>",
+              "question": "ไทยลีก 3 มีกี่ทีม?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<span style=\"font-weight: 400;\">ไทยลีก 3 ใช้ระบบเลื่อนชั้น/ตกชั้น สองทีมอันดับสูงสุดเมื่อจบฤดูกาลจะได้เลื่อนชั้นสู่ไทยลีก 2 ในขณะที่สองทีมอันดับล่างตกชั้นสู่ไทยลีก 4</span>",
+              "question": "ระบบลีกทำงานอย่างไร?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<span style=\"font-weight: 400;\">ทีมที่น่าจับตามองในไทยลีก 3 ได้แก่ อุทัยธานี เอฟซี, ปัตตานี เอฟซี และบางกอก เอฟซี</span>",
+              "question": "ทีมไทยลีก 3 ที่น่าจับตามองมีทีมใดบ้าง?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<span style=\"font-weight: 400;\">ฤดูกาลไทยลีก 3 โดยทั่วไปจะเริ่มตั้งแต่เดือนมีนาคมถึงเดือนตุลาคม</span>",
+              "question": " ไทยลีก 3 ฤดูกาล แข่งเมื่อไหร่?"
+            }
+          ]
+        },
+        "pageFields": {
+          "__typename": "Page_Pagefields",
+          "shortTitle": "ไทยลีก 3"
+        },
+        "livescoreOther": {
+          "__typename": "Page_Livescoreother",
+          "iframeImage": {
+            "__typename": "MediaItem",
+            "altText": "thai league 3",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/thai-league-t3.png"
+          }
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzIxNjE=",
+        "title": "ไทยลีก 2 | Thai League 2",
+        "slug": "thai-league-two",
+        "content": "<span style=\"font-weight: 400;\">ไทยลีก 2 เป็นฟุตบอลอาชีพระดับ 2 ของประเทศไทย และเป็นลีกที่แฟนกีฬาไม่ควรมองข้าม ด้วยทีมที่เก่งที่สุดในประเทศที่แข่งขันกันเพื่อเลื่อนชั้นสู่ไทยลีก 1 ไทยลีก 2 นำเสนอฟุตบอลที่น่าตื่นเต้นและการแข่งขันที่ไม่ควรพลาด</span></p><p><span style=\"font-weight: 400;\">หากคุณเป็นแฟนบอลที่กำลังมองหาการแข่งขันคุณภาพสูง ไทยลีก 2 คือลีกที่สมบูรณ์แบบในการติดตาม ลีกประกอบด้วย 18 ทีม ซึ่งทุกทีมมีใจรักในฟุตบอลและกระตือรือร้นที่จะพิสูจน์ตัวเองในสนาม ทั้งสองทีมจะเล่นกันสองครั้งในหนึ่งฤดูกาล หนึ่งครั้งในบ้านและอีกครั้ง มอบโอกาสมากมายให้แฟนๆ ได้ชมการแข่งขันของทีมโปรด</span></p><p><span style=\"font-weight: 400;\">ติดตามผลกีฬาสดของไทยลีก 2 ได้ง่ายกว่าที่เคยบนเว็บไซต์</span><a href=\"https://www.buaksib.com/livescore/\"><b>ผลบอลสด</b></a><span style=\"font-weight: 400;\">ของเรา เราให้บริการอัปเดตการแข่งขันทั้งหมดตามเวลาจริง ดังนั้นแฟนๆ จึงสามารถติดตามผลคะแนน อันดับ และสถิติล่าสุดได้ เว็บไซต์ของเรายังมีรายงานการแข่งขันและบทวิเคราะห์ที่ครอบคลุม เพื่อให้แฟนๆ สามารถเข้าใจแต่ละเกมและลีกโดยรวมได้อย่างลึกซึ้งยิ่งขึ้น</span></p><p><span style=\"font-weight: 400;\">แล้วทำไมต้องติดตามไทยลีก 2 บนเว็บไซต์ของเรา? ประการแรก ลีกนำเสนอฟุตบอลที่ดีที่สุดในประเทศด้วยการแข่งขันที่น่าตื่นเต้นและทีมที่มีความสามารถ ประการที่สอง เว็บไซต์ของเราให้ข้อมูลทั้งหมดที่คุณต้องการเพื่อให้ทันกับคะแนนและสถิติล่าสุด สุดท้าย การติดตามไทยลีก 2 บนเว็บไซต์ของเรา คุณจะไม่พลาดการแข่งขัน มั่นใจได้ว่าคุณจะไม่พลาดทุกความเคลื่อนไหว</span></p><p><img loading=\"lazy\" class=\"size-medium wp-image-493357 aligncenter\" src=\"https:\\/\\/newbackend.buaksib.com/wp-content/uploads/2023/05/thai_league2-500x332.jpg\" alt=\"ไทยลีก 2\" width=\"500\" height=\"332\" srcset=\"https://newbackend.buaksib.com/wp-content/uploads/2023/05/thai_league2-500x332.jpg 500w, https://newbackend.buaksib.com/wp-content/uploads/2023/05/thai_league2.jpg 700w\" sizes=\"(max-width: 500px) 100vw, 500px\" title=\"ไทยลีก 2\"></p><h2><span style=\"font-weight: 400;\">ผลบอลสดไทยลีก 2</span></h2><p><span style=\"font-weight: 400;\">หากคุณเป็นแฟนฟุตบอล คุณก็ไม่อยากพลาดการแข่งขันในไทยลีก 2 ลีกนี้เต็มไปด้วยความตื่นเต้นและมีระดับการเล่นที่จะทำให้คุณแทบนั่งไม่ติดเก้าอี้ . และวิธีที่ดีที่สุดในการติดตามผลคะแนนและอันดับล่าสุดทั้งหมดคือการเยี่ยมชมเว็บไซต์ของเรา</span></p><p><span style=\"font-weight: 400;\">เว็บไซต์ของเราอัปเดต</span><a href=\"https://www.buaksib.com/livescore/\"><b>ผลบอลสด</b></a><span style=\"font-weight: 400;\">ตามเวลาจริงและอัปเดตสำหรับการแข่งขันทั้งหมดที่เกิดขึ้นในไทยลีก 2 คุณสามารถเข้าถึงข้อมูลที่คุณต้องการได้อย่างง่ายดายเพื่อติดตามข่าวสารและติดตามทีมโปรดของคุณ ไม่ว่าคุณจะอยู่ที่บ้านหรือกำลังเดินทาง เว็บไซต์ของเราเป็นวิธีที่สมบูรณ์แบบในการติดตามการแข่งขันทั้งหมดในลีกที่น่าตื่นเต้นนี้</span></p><p><span style=\"font-weight: 400;\">ไทยลีก 2 เป็นฟุตบอลอาชีพระดับ 2 ของประเทศไทย โดยมี 18 ทีมที่แข่งขันกันเพื่อโอกาสเลื่อนชั้นสู่ไทยลีก 1 ลีกประกอบด้วยผู้เล่นที่มีประสบการณ์และดาวรุ่ง ทำให้เป็นฤดูกาลที่น่าตื่นเต้นและคาดเดาไม่ได้ ลีกนี้ขึ้นชื่อเรื่องการแข่งขันที่มีสกอร์สูง มีเป้าหมายและแอคชั่นในสนามมากมาย</span></p><p><span style=\"font-weight: 400;\">หากคุณยังใหม่กับไทยลีก 2 เว็บไซต์ของเรามีข้อมูลทั้งหมดที่คุณต้องการเพื่อเริ่มต้น คุณสามารถเรียนรู้เกี่ยวกับทีมที่แข่งขันในลีก ประวัติ และอันดับปัจจุบัน นอกจากนี้เรายังให้การวิเคราะห์เชิงลึกของแต่ละแมตช์ ดังนั้นคุณจึงสามารถเข้าใจผู้เล่นหลักและกลยุทธ์ที่ควรระวัง</span><br><span style=\"font-weight: 400;\">ไม่ว่าคุณจะเป็นแฟนตัวยงของฟุตบอลไทยหรือเพียงแค่มองหาลีกใหม่ที่น่าตื่นเต้นเพื่อติดตาม ไทยลีก 2 จะส่งมอบอย่างแน่นอน และด้วยเว็บไซต์</span><a href=\"https://www.buaksib.com/football/thai-livescore/\"><b>ผลบอลสดไทย</b></a><span style=\"font-weight: 400;\">ของเรา คุณจะไม่พลาดทุกช่วงเวลาของการกระทำ ตั้งแต่คะแนนและอันดับตามเวลาจริงไปจนถึงการวิเคราะห์เชิงลึกและไฮไลท์ เรามีทุกสิ่งที่คุณต้องการเพื่อติดตามลีกที่น่าตื่นเต้นนี้</span>",
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "ไทยลีก 2 | Thai League 2 เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ไทยลีก 2 เป็นฟุตบอลอาชีพระดับ 2 ของประเทศไทย และเป็นลีกที่แฟนกีฬาไม่ควรมองข้าม ด้วยทีมที่เก่งที่สุดในประเทศที่แข่งขันกันเพื่อเ",
+          "opengraphTitle": "ไทยลีก 2 | Thai League 2 เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ไทยลีก 2 เป็นฟุตบอลอาชีพระดับ 2 ของประเทศไทย และเป็นลีกที่แฟนกีฬาไม่ควรมองข้าม ด้วยทีมที่เก่งที่สุดในประเทศที่แข่งขันกันเพื่อเ",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-two/\",\"url\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-two/\",\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01 2 | Thai League 2 \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-13T07:57:14+00:00\",\"dateModified\":\"2023-06-06T13:11:53+00:00\",\"description\":\"\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01 2 \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e2d\\u0e32\\u0e0a\\u0e35\\u0e1e\\u0e23\\u0e30\\u0e14\\u0e31\\u0e1a 2 \\u0e02\\u0e2d\\u0e07\\u0e1b\\u0e23\\u0e30\\u0e40\\u0e17\\u0e28\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e25\\u0e35\\u0e01\\u0e17\\u0e35\\u0e48\\u0e41\\u0e1f\\u0e19\\u0e01\\u0e35\\u0e2c\\u0e32\\u0e44\\u0e21\\u0e48\\u0e04\\u0e27\\u0e23\\u0e21\\u0e2d\\u0e07\\u0e02\\u0e49\\u0e32\\u0e21 \\u0e14\\u0e49\\u0e27\\u0e22\\u0e17\\u0e35\\u0e21\\u0e17\\u0e35\\u0e48\\u0e40\\u0e01\\u0e48\\u0e07\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e40\\u0e17\\u0e28\\u0e17\\u0e35\\u0e48\\u0e41\\u0e02\\u0e48\\u0e07\\u0e02\\u0e31\\u0e19\\u0e01\\u0e31\\u0e19\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e40\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-two/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-livescore/thai-league-two/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-two/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e1e\\u0e23\\u0e35\\u0e40\\u0e21\\u0e35\\u0e22\\u0e23\\u0e4c\\u0e25\\u0e35\\u0e01 | Thai Premier League\",\"item\":\"https://newbackend.buaksib.com/thai-livescore/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01 2 | Thai League 2\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        },
+        "livescore": {
+          "__typename": "Page_Livescore",
+          "faq": [
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<span style=\"font-weight: 400;\">ไทยลีก 2 มีทั้งหมด 18 ทีม</span>",
+              "question": "ไทยลีก 2 มีกี่ทีม?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<span style=\"font-weight: 400;\">สองทีมอันดับสูงสุดในไทยลีก 2 จะได้เลื่อนชั้นสู่ไทยลีก 1 ส่วนสี่ทีมอันดับล่างจะตกชั้นสู่ไทยลีก 3</span>",
+              "question": "ระบบการเลื่อนชั้นของไทยลีก 2 คืออะไร?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<span style=\"font-weight: 400;\">แต่ละทีมลงเล่น 34 นัดในหนึ่งฤดูกาล โดยแบ่งเป็นทีมเหย้า 17 นัด และเกมเยือน 17 นัด</span>",
+              "question": "มีการแข่งขันทั้งหมดกี่รายการในหนึ่งฤดูกาล"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<span style=\"font-weight: 400;\">ทีมจะได้รับการจัดอันดับตามจำนวนคะแนนทั้งหมด โดยจะได้รับ 3 คะแนนเมื่อชนะ 1 คะแนนเมื่อเสมอ และ 0 คะแนนเมื่อแพ้</span>",
+              "question": "ทีมอันดับในตารางลีกเป็นอย่างไร?"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<span style=\"font-weight: 400;\">ปกติฤดูกาลไทยลีก 2 จะเริ่มในเดือนกุมภาพันธ์และสิ้นสุดในเดือนตุลาคม</span></p><p> ",
+              "question": "ฤดูกาลเริ่มต้นและสิ้นสุดเมื่อใด"
+            },
+            {
+              "__typename": "Page_Livescore_faq",
+              "answer": "<span style=\"font-weight: 400;\">ทีมในไทยลีก 2 ปัจจุบัน ได้แก่ เชียงใหม่ ยูไนเต็ด, เกษตรศาสตร์, ขอนแก่น ยูไนเต็ด, ลำปาง, นครปฐม ยูไนเต็ด, หนองบัวพิชญ, ปทุมธานี ยูไนเต็ด, แพร่ ยูไนเต็ด, ระยอง, สมุทรสาคร, ศรีสะเกษ, สงขลา ยูไนเต็ด, อุทัยธานี, อุดร ธานี กับ 2 ทีมเลื่อนชั้นจากไทยลีก 3</span>",
+              "question": "ทีมในไทยลีก 2 ปัจจุบันคือใคร?"
+            }
+          ]
+        },
+        "pageFields": {
+          "__typename": "Page_Pagefields",
+          "shortTitle": "ไทยลีก 2"
+        },
+        "livescoreOther": {
+          "__typename": "Page_Livescoreother",
+          "iframeImage": {
+            "__typename": "MediaItem",
+            "altText": "thai league 2",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/thai-league-t2.png"
+          }
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzIxNTk=",
+        "title": "Thai Champions Cup",
+        "slug": "thai-championship-league",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai Champions Cup เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai Champions Cup ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai Champions Cup เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai Champions Cup ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-championship-league/\",\"url\":\"https://newbackend.buaksib.com/thai-livescore/thai-championship-league/\",\"name\":\"Thai Champions Cup \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-13T07:56:43+00:00\",\"dateModified\":\"2023-03-13T07:56:43+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai Champions Cup \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-championship-league/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-livescore/thai-championship-league/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-championship-league/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e1e\\u0e23\\u0e35\\u0e40\\u0e21\\u0e35\\u0e22\\u0e23\\u0e4c\\u0e25\\u0e35\\u0e01 | Thai Premier League\",\"item\":\"https://newbackend.buaksib.com/thai-livescore/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai Champions Cup\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        },
+        "livescore": {
+          "__typename": "Page_Livescore",
+          "faq": null
+        },
+        "pageFields": {
+          "__typename": "Page_Pagefields",
+          "shortTitle": null
+        },
+        "livescoreOther": {
+          "__typename": "Page_Livescoreother",
+          "iframeImage": null
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NzIxNTc=",
+        "title": "Championship Round",
+        "slug": "thai-league-3-championship-round",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Championship Round เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Championship Round ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Championship Round เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Championship Round ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-championship-round/\",\"url\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-championship-round/\",\"name\":\"Championship Round \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-03-13T07:56:05+00:00\",\"dateModified\":\"2023-03-13T07:56:05+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Championship Round \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-championship-round/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-championship-round/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/thai-livescore/thai-league-3-championship-round/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e44\\u0e17\\u0e22\\u0e1e\\u0e23\\u0e35\\u0e40\\u0e21\\u0e35\\u0e22\\u0e23\\u0e4c\\u0e25\\u0e35\\u0e01 | Thai Premier League\",\"item\":\"https://newbackend.buaksib.com/thai-livescore/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Championship Round\"}]}]}"
+          }
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        },
+        "livescore": {
+          "__typename": "Page_Livescore",
+          "faq": null
+        },
+        "pageFields": {
+          "__typename": "Page_Pagefields",
+          "shortTitle": null
+        },
+        "livescoreOther": {
+          "__typename": "Page_Livescoreother",
+          "iframeImage": null
+        }
+      }
+    }
+  ]
+}

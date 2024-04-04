@@ -1,0 +1,123 @@
+@use 'styles/variables' as variables;
+
+.root {
+  margin-bottom: 74px;
+}
+
+.imageWrapper {
+  margin-bottom: 24px;
+}
+
+.footer {
+  position: absolute;
+  left: 29px;
+  bottom: 29px;
+  right: 29px;
+  color: variables.$primary-colors-white;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.cardTitle {
+  font-size: 36px;
+  font-weight: 300;
+  margin-bottom: 28px;
+  line-height: normal;
+  color: variables.$primary-colors-white;
+}
+
+.wrapperText,
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cardCategory {
+  padding: 6px 12px;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+  color: variables.$primary-colors-white;
+  text-transform: uppercase;
+  background-color: variables.$primary-colors-2-000000;
+  cursor: pointer;
+}
+
+.wrapper {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.date,
+.author {
+  margin-right: 24px;
+  display: flex;
+  align-items: center;
+}
+
+.date {
+  margin-right: 24px;
+}
+
+.iconCalendar {
+  path {
+    stroke: variables.$primary-colors-white;
+  }
+}
+
+.dateText,
+.authorText {
+  margin-left: 9px;
+}
+
+.text {
+  font-size: 16px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: variables.$primary-colors-2-000000;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  strong {
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 16px;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 500;
+  }
+
+  a {
+    color: variables.$primary-colors-red1;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  figure {
+    width: 100% !important;
+    height: auto;
+    margin: 0;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+}

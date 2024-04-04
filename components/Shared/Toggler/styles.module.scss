@@ -1,0 +1,39 @@
+@use 'styles/variables' as variables;
+
+.root {
+  margin-bottom: 4px;
+}
+
+.toggler {
+  cursor: pointer;
+  color: variables.$primary-colors-darkGray;
+  background-color: variables.$primary-colors-gray-5;
+  min-height: 34px;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  font-size: 14px;
+
+  &::before {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%) rotate(45deg);
+    right: 15px;
+    content: '';
+    border: solid variables.$primary-colors-2-000000;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    transition: transform 0.5s;
+  }
+}
+
+.active {
+  background-color: variables.$primary-colors-red;
+  color: variables.$primary-colors-white;
+
+  &::before {
+    border-color: variables.$primary-colors-white;
+    transform: translateY(-50%) rotate(225deg);
+  }
+}

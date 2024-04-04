@@ -1,0 +1,77 @@
+@use 'styles/variables' as variables;
+
+.paper {
+  width: 700px;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.input {
+  height: 48px;
+  border-radius: 4px;
+  background-color: rgb(239, 239, 239);
+  line-height: 1.5;
+  font-size: 14px;
+  padding: 10px 20px;
+  width: 100%;
+  border: 1px solid transparent;
+  font-family: inherit;
+  font-weight: 300;
+  margin-right: 18px;
+}
+
+.button {
+  width: 120px;
+  height: 48px;
+  color: variables.$primary-colors-white;
+  background-color: variables.$primary-colors-red;
+  border-radius: 5px;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+.tooltip {
+  display: none;
+  position: absolute;
+  bottom: -17px;
+  right: 10px;
+  padding: 8px 20px;
+  border-radius: 4px;
+  background-color: variables.$primary-colors-white;
+  color: variables.$primary-colors-2-000000;
+  box-shadow: 2px 2px 14px 0 rgba(0, 0, 0, 0.21);
+
+  &::before {
+    position: absolute;
+    top: -7px;
+    right: 20px;
+    content: '';
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 10px 10px 10px;
+    border-color: transparent transparent variables.$primary-colors-white
+      transparent;
+  }
+
+  &.visible {
+    display: block;
+    animation: fadeIn 0.5s;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.1);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

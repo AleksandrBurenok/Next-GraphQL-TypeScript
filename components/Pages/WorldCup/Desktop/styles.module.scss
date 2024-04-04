@@ -1,0 +1,64 @@
+@use 'styles/variables' as variables;
+
+.main {
+  padding-left: 0;
+}
+
+.wrapper {
+  margin-bottom: 32px;
+}
+
+.wrapperTitle {
+  font-size: 36px;
+  font-weight: 300;
+  line-height: normal;
+  color: variables.$primary-colors-white;
+  position: absolute;
+  left: 32px;
+  bottom: 24px;
+  margin-bottom: 0;
+}
+
+.content {
+  margin-bottom: 40px;
+  color: variables.$primary-colors-2-000000;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: normal;
+
+  p {
+    margin-bottom: 16px;
+  }
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-bottom: 16px;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 1;
+    color: variables.$primary-colors-2-000000;
+  }
+
+  ol {
+    padding-left: 5px;
+  }
+}
+
+.titleTable {
+  margin-bottom: 16px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: normal;
+  color: variables.$primary-colors-2-000000;
+}
+
+.posts {
+  margin-bottom: 40px;
+}
+
+.seo {
+  margin-bottom: 0;
+}

@@ -1,0 +1,56 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.widget {
+  margin-bottom: 40px;
+
+  @include breakpoints.mobile {
+    margin: 32px 0;
+  }
+}
+
+.widgetTitle {
+  font-weight: 500;
+  text-transform: uppercase;
+  color: variables.$primary-colors-2-000000;
+  line-height: 1;
+  margin-bottom: 16px;
+}
+
+.widgetList {
+  border: 1px solid variables.$primary-colors-gray-2;
+  background-color: variables.$primary-colors-white;
+  height: 452px;
+  overflow: hidden scroll;
+}
+
+.widgetItem {
+  border-bottom: 1px solid variables.$primary-colors-gray-2;
+  padding: 8px 16px;
+}
+
+.widgetLink {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+
+  &:hover {
+    .titleItem {
+      text-decoration: underline;
+    }
+  }
+}
+
+.titleItem {
+  margin-bottom: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  color: variables.$primary-colors-2-000000;
+}
+
+.timeItem {
+  font-size: 12px;
+  line-height: 1.17;
+  color: variables.$primary-colors-darkGray;
+  text-transform: uppercase;
+}

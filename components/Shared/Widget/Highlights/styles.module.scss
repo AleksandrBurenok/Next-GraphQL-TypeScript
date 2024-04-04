@@ -1,0 +1,84 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.widget {
+  margin-bottom: 40px;
+
+  @include breakpoints.mobile {
+    margin-bottom: 0;
+  }
+}
+
+.widgetTitle {
+  font-weight: 500;
+  text-transform: uppercase;
+  color: variables.$primary-colors-2-000000;
+  line-height: 1;
+  margin-bottom: 16px;
+}
+
+.banners {
+  margin-bottom: 16px;
+}
+
+.widgetList {
+  background-color: variables.$primary-colors-white;
+  height: 1079px;
+  overflow: hidden scroll;
+}
+
+.widgetItem {
+  margin-bottom: 16px;
+
+  &:hover {
+    .icon {
+      path {
+        fill: variables.$primary-colors-white;
+
+        &:nth-child(2) {
+          fill: variables.$primary-colors-red;
+        }
+      }
+    }
+  }
+}
+
+.widgetLink {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+
+  &:hover {
+    .titleItem {
+      text-decoration: underline;
+    }
+  }
+}
+
+.icon {
+  margin: auto;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.titleItem {
+  margin: 8px 0 4px 0;
+  font-size: 14px;
+  font-weight: 500;
+  color: variables.$primary-colors-2-000000;
+}
+
+.active {
+  opacity: 0.75;
+}
+
+.timeItem {
+  font-size: 12px;
+  line-height: 1.17;
+  color: variables.$primary-colors-dark;
+  text-transform: uppercase;
+}

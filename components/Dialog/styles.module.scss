@@ -1,0 +1,45 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.root {
+  border-radius: 8px;
+  box-shadow: 0 6px 16px 0 rgba(0, 0, 0, 0.1);
+  background-color: variables.$primary-colors-white;
+  padding: 24px;
+  z-index: 1;
+}
+
+.background {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  inset: 0;
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(2px);
+  background-color: rgba(44, 62, 80, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+  overflow: hidden auto;
+
+  @include breakpoints.mobile {
+    top: 0;
+  }
+}
+
+.closeIconButton {
+  position: absolute;
+  right: -48px;
+  top: -48px;
+  cursor: pointer;
+  z-index: 2;
+  background-color: transparent;
+  border: none;
+
+  @include breakpoints.downTablet {
+    right: -20px;
+    top: -45px;
+  }
+}

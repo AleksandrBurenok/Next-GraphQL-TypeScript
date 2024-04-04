@@ -1,0 +1,147 @@
+@use 'styles/breakpoints' as breakpoints;
+@use 'styles/variables' as variables;
+
+.paper {
+  padding: 40px 90px;
+  min-width: 910px;
+  min-height: 467px;
+  text-align: center;
+  font-size: 14px;
+
+  @include breakpoints.downTablet {
+    min-width: 320px;
+    font-size: 13px;
+    padding: 30px 15px;
+  }
+}
+
+.wrapperTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 14px;
+  font-weight: 400;
+  color: variables.$primary-colors-gray-3;
+  text-transform: uppercase;
+
+  @include breakpoints.downTablet {
+    margin-bottom: 20px;
+  }
+}
+
+.title {
+  margin-left: 5px;
+}
+
+.header {
+  font-size: 20px;
+  margin-bottom: 20px;
+  @include breakpoints.tablet {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .localTeam,
+  .visitorTeam {
+    @include breakpoints.downTablet {
+      justify-content: space-between;
+    }
+  }
+
+  .visitorTeam {
+    @include breakpoints.downTablet {
+      flex-direction: row-reverse;
+    }
+  }
+}
+
+.localTeam {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+  .wrapperTeam {
+    @include breakpoints.downTablet {
+      flex-direction: row-reverse;
+    }
+  }
+}
+
+.wrapperTeam {
+  display: flex;
+  align-items: center;
+}
+
+.teamName {
+  margin: 0 10px;
+}
+
+.score {
+  padding: 0 10px;
+  font-size: 60px;
+  line-height: 1;
+
+  @include breakpoints.downTablet {
+    font-size: 20px;
+  }
+}
+
+.divider {
+  display: block;
+  font-size: 60px;
+  font-weight: 500;
+  line-height: 1;
+
+  @include breakpoints.downTablet {
+    display: none;
+  }
+}
+
+.events {
+  margin-bottom: 32px;
+}
+
+.event {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 36px;
+
+  &:nth-child(2n + 1) {
+    background-color: variables.$primary-colors-grey;
+  }
+}
+
+.localTeam,
+.visitorTeam {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  min-width: 1px;
+}
+
+.matchResult {
+  margin: 0 5px;
+  font-weight: 500;
+  max-width: 100%;
+  text-align: center;
+  width: 110px;
+
+  @include breakpoints.downTablet {
+    width: unset;
+  }
+}
+
+.matchTeam {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.btn {
+  background-color: variables.$primary-colors-red;
+  color: variables.$primary-colors-white;
+}

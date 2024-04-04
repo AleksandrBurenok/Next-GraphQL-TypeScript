@@ -1,0 +1,46 @@
+@use 'styles/variables' as variables;
+
+.root {
+  height: 64px;
+  background-color: variables.$primary-colors-dark;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 3;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.leftMenu {
+  display: flex;
+  align-items: center;
+}
+
+.rightMenu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-basis: 90px;
+  position: unset;
+}
+
+.submenu {
+  background-color: variables.$primary-colors-white;
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
+  width: 100%;
+  padding: 10px;
+}
+
+.icon {
+  opacity: 0.8;
+}
+
+.stick {
+  width: 1px;
+  height: 24px;
+  background-color: #918f8f;
+}

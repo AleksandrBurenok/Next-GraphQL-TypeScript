@@ -1,0 +1,11 @@
+@use 'styles/variables' as variables;
+
+.wrapperIcon {
+  background-color: variables.$primary-colors-white;
+  border-radius: 50%;
+  padding: 3px;
+  margin-right: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

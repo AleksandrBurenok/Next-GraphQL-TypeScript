@@ -1,0 +1,15 @@
+@use 'styles/breakpoints' as breakpoints;
+
+.mainContainer {
+  flex: 1;
+  width: 100%;
+
+  @include breakpoints.tablet {
+    padding-right: 18px;
+    padding-left: 18px;
+  }
+
+  @include breakpoints.mobile {
+    margin-bottom: 0;
+  }
+}

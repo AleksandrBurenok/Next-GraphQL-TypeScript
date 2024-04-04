@@ -1,0 +1,130 @@
+@use 'styles/variables' as variables;
+
+.teamBox {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.teamBoxLeft {
+  justify-content: end;
+}
+
+.wrapperFixtureBtn {
+  display: flex;
+}
+
+.btnH2h {
+  height: 24px;
+  padding: 0 10px;
+  margin: 0 6px;
+  font-size: 13px;
+  color: variables.$primary-colors-gray-3;
+  background-color: transparent;
+  border: 1px solid variables.$primary-colors-gray-3;
+  border-radius: 4px;
+  white-space: nowrap;
+
+  &:hover {
+    color: variables.$primary-colors-darkGray;
+    border-color: variables.$primary-colors-darkGray;
+    background-color: transparent;
+  }
+}
+
+.wrapperTeam {
+  display: flex;
+  align-items: center;
+}
+
+.teamName {
+  margin: 0 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.cardYellow,
+.cardRed {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 16px;
+  height: 18px;
+  margin: 0 5px;
+  border-radius: 3px;
+
+  &:hover {
+    .cardList {
+      display: block;
+    }
+  }
+}
+
+.cardRed {
+  color: variables.$primary-colors-white;
+  background-color: variables.$primary-colors-red;
+
+  .cardList {
+    background-color: variables.$primary-colors-red;
+
+    &::after {
+      border-color: variables.$primary-colors-red transparent transparent;
+    }
+  }
+}
+
+.cardYellow {
+  background-color: variables.$primary-color-yellow;
+
+  .cardList {
+    background-color: variables.$primary-color-yellow;
+
+    &::after {
+      border-color: variables.$primary-color-yellow transparent transparent;
+    }
+  }
+}
+
+.cardList {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  width: 130px;
+  display: none;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  list-style-type: none;
+  transform: translateX(-50%);
+  animation: fadeIn 0.15s linear;
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    border-width: 5px;
+    border-style: solid;
+    transform: translateX(-50%);
+  }
+
+  @keyframes fadeIn {
+    0% {
+      visibility: hidden;
+      opacity: 0;
+    }
+    100% {
+      visibility: visible;
+      opacity: 1;
+    }
+  }
+}
+
+.iconStar {
+  cursor: pointer;
+  path {
+    fill: variables.$primary-colors-gray;
+  }
+}

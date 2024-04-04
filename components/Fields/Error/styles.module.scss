@@ -1,0 +1,13 @@
+@use 'styles/variables' as variables;
+
+.p {
+  position: absolute;
+  left: 0;
+  bottom: -29px;
+  line-height: 1;
+  color: variables.$primary-colors-red;
+}
+
+.required {
+  bottom: -20px;
+}

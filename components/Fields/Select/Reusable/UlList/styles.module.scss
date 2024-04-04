@@ -1,0 +1,17 @@
+.option {
+  height: 33px;
+  display: flex;
+  align-items: center;
+  padding-left: 8px;
+  cursor: pointer;
+
+  &:hover {
+    border-radius: 8px;
+  }
+}
+
+.selectList {
+  max-height: 300px;
+  overflow: overlay;
+  font-size: 14px;
+}

@@ -1,0 +1,154 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.title {
+  margin-bottom: 32px;
+}
+
+.wrapperPrizes {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-flow: row wrap;
+  margin-bottom: 60px;
+}
+
+.wrapperPrizeStage {
+  border-radius: 8px;
+  border: 1px solid variables.$primary-colors-gray-12;
+  width: 248px;
+  margin-bottom: 19px;
+  cursor: pointer;
+
+  &:last-of-type {
+    margin-bottom: 0;
+    width: 100%;
+  }
+
+  &:hover {
+    .wrapperZoomIcon {
+      display: flex;
+    }
+  }
+
+  @include breakpoints.mobile {
+    width: 49%;
+  }
+}
+
+.wrapperPrizeStageTop {
+  background-color: variables.$primary-colors-gray-12;
+  padding: 8px 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.finalPrizeIconLeft {
+  position: absolute;
+  left: -70px;
+  bottom: -70px;
+}
+
+.finalPrizeIconRight {
+  position: absolute;
+  right: -80px;
+  bottom: -65px;
+}
+
+.wrapperStageName {
+  padding: 8px 9px;
+  border-radius: 4px;
+  background-color: variables.$primary-colors-white;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 0.67;
+  text-transform: uppercase;
+  color: variables.$primary-colors-red;
+  z-index: 1;
+}
+
+.wrapperImage {
+  height: 95px;
+  width: 95px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapperImageFinal {
+  width: 170px;
+}
+
+.wrapperZoomIcon {
+  display: flex;
+  position: absolute;
+  right: 8px;
+  bottom: 36px;
+
+  &:last-of-type {
+    bottom: 14px;
+  }
+}
+
+.prizeName {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: normal;
+  color: variables.$primary-colors-2-000000;
+  z-index: 1;
+}
+
+.wrapperPrizeStageBottom {
+  padding: 8px 0;
+  font-size: 14px;
+  line-height: 1.29;
+  text-align: center;
+  color: variables.$primary-colors-2-000000;
+}
+
+.currentWinner {
+  font-size: 12px;
+  color: variables.$primary-colors-gray-3;
+  margin-bottom: 4px;
+  text-transform: uppercase;
+  line-height: normal;
+}
+
+.content {
+  margin-bottom: 40px;
+  color: variables.$primary-colors-2-000000;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: normal;
+
+  p {
+    margin-bottom: 16px;
+  }
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-bottom: 16px;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 1;
+    color: variables.$primary-colors-2-000000;
+  }
+}
+
+.paper {
+  width: 90%;
+  height: 411px;
+  padding: 8px;
+  display: flex;
+}
+
+.internal {
+  width: 100%;
+}

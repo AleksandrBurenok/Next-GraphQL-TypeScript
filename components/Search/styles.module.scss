@@ -1,0 +1,56 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.wrapper {
+  position: unset;
+  display: flex;
+  margin-right: 5px;
+}
+
+.fieldWrap {
+  position: absolute;
+  top: -2px;
+  left: -245px;
+  width: 249px;
+  z-index: 1;
+
+  @include breakpoints.mobile {
+    top: 12px;
+    right: 50px;
+    left: unset;
+  }
+}
+
+.searchInput {
+  width: 100%;
+  height: 40px;
+  padding: 8px 23px 8px 16px;
+  border-radius: 8px;
+  border: none;
+  background-color: variables.$neutrals-3;
+  font-size: 14px;
+  font-weight: 300;
+  color: variables.$primary-colors-white;
+
+  &::placeholder {
+    color: variables.$primary-colors-white;
+    opacity: 0.5;
+    font-family: Kanit;
+  }
+}
+
+.btnClose {
+  color: variables.$primary-colors-white;
+  position: absolute;
+  right: 5px;
+  top: 8px;
+  padding: 0;
+  background-color: unset;
+  border: none;
+  cursor: pointer;
+}
+
+.iconSearch {
+  opacity: 0.7;
+  cursor: pointer;
+}

@@ -1,0 +1,55 @@
+@use 'styles/variables' as variables;
+
+.team {
+  padding: 0 16px;
+  font-size: 14px;
+  width: 100%;
+
+  &:nth-of-type(odd) {
+    background-color: variables.$primary-colors-grey;
+  }
+}
+
+.wrapperBtn {
+  width: 100%;
+  min-height: 36px;
+  display: flex;
+  align-items: center;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+.score {
+  width: 240px;
+  color: variables.$primary-colors-red2;
+  font-weight: 500;
+  font-size: 14px;
+
+  &:hover {
+    color: variables.$primary-colors-red;
+  }
+}
+
+.noLiveText {
+  color: rgba(0, 0, 0, 0.85);
+}
+
+.wrapperLinks {
+  padding: 15px 0 35px 0;
+  font-weight: 500;
+  line-height: 2;
+}
+
+.titleLinks {
+  color: variables.$primary-colors-darkGray7;
+  margin-bottom: 8px;
+}
+
+.listLinks {
+  list-style-type: none;
+}
+
+.link {
+  color: variables.$primary-colors-red;
+}

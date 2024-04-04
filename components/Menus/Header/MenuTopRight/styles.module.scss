@@ -1,0 +1,55 @@
+@use 'styles/variables' as variables;
+
+.menuTop {
+  display: flex;
+  align-content: center;
+}
+
+.menuItem {
+  list-style-type: none;
+  position: relative;
+
+  &:hover {
+    .subMenuTop {
+      display: flex;
+      align-items: flex-start;
+      flex-direction: column;
+      background-color: variables.$primary-colors-dark;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      border-radius: 0 0 4px 4px;
+      padding: 7px 10px 20px;
+      transition: all 0.15s ease-in-out;
+    }
+  }
+}
+
+.menuLink {
+  color: variables.$primary-colors-white;
+  opacity: 0.8;
+  padding: 8px 16px;
+  cursor: pointer;
+
+  &:before {
+    content: '';
+    position: absolute;
+    right: 100%;
+    bottom: 0;
+    left: 7px;
+    height: 30px;
+    border-bottom: 2px solid variables.$primary-colors-white;
+    -webkit-transition: right 0.15s linear;
+    transition: right 0.15s linear;
+  }
+
+  &:hover {
+    color: variables.$primary-colors-white;
+    opacity: 1;
+  }
+}
+
+.subMenuTop {
+  display: none;
+}

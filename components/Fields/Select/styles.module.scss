@@ -1,0 +1,12 @@
+.list {
+  position: absolute;
+  top: 35px;
+  right: 0;
+  z-index: 1;
+  background-color: white;
+  visibility: hidden;
+}
+
+.open {
+  visibility: visible;
+}

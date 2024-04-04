@@ -1,0 +1,22 @@
+@use 'styles/variables' as variables;
+
+.iconGoal {
+  path {
+    fill: variables.$primary-colors-2-000000;
+  }
+}
+
+.yellowCard,
+.redCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 16px;
+  height: 18px;
+  border-radius: 3px;
+  background-color: variables.$primary-color-yellow;
+}
+
+.redCard {
+  background-color: variables.$primary-colors-red;
+}

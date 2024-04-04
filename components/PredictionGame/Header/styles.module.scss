@@ -1,0 +1,41 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.wrapperText {
+  text-align: center;
+  margin-bottom: 41px;
+
+  @include breakpoints.mobile {
+    margin-bottom: 24px;
+  }
+}
+
+.title {
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+
+.underTitle {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.btnLogin,
+.btnRegister {
+  padding: 0;
+  background-color: unset;
+  color: variables.$primary-colors-red;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: normal;
+  width: unset;
+  height: unset;
+
+  &:hover {
+    background-color: unset;
+    color: variables.$primary-colors-red1;
+  }
+}

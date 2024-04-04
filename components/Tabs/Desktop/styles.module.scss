@@ -1,0 +1,20 @@
+@use 'styles/variables' as variables;
+
+.tabs {
+  max-width: 1047px;
+}
+
+.wrapper {
+  list-style-type: none;
+  display: flex;
+}
+
+.wrapperMenu {
+  flex-direction: column;
+  margin-top: 16px;
+}
+
+.redLine {
+  height: 2px;
+  background-color: variables.$primary-colors-red;
+}

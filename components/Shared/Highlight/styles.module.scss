@@ -1,0 +1,191 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.root {
+  margin-bottom: 24px;
+
+  @include breakpoints.mobile {
+    margin-bottom: 16px;
+  }
+}
+
+.cardTitle {
+  font-size: 26px;
+  font-weight: 500;
+  margin-bottom: 24px;
+  line-height: 1.23;
+  color: variables.$primary-colors-2-000000;
+
+  @include breakpoints.mobile {
+    font-size: 16px;
+    line-height: 1;
+    margin-bottom: 16px;
+  }
+}
+
+.wrapperAdVideo {
+  @include breakpoints.mobile {
+    min-height: 185px;
+    min-width: 328px;
+  }
+}
+
+.skipBtn,
+.overlay {
+  display: none;
+  position: absolute;
+}
+
+.skipBtn {
+  background-color: variables.$primary-colors-2-000000;
+  color: variables.$primary-colors-darkGray2;
+  border: 1px solid variables.$primary-colors-darkGray2;
+  right: 8px;
+  bottom: 7%;
+  width: 70px;
+  height: 30px;
+  font-size: 16px;
+  cursor: pointer;
+
+  &:hover {
+    color: variables.$primary-colors-white;
+    border: 1px solid variables.$primary-colors-white;
+  }
+}
+
+.overlay {
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: transparent;
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+
+  img {
+    width: 100%;
+    height: 100%;
+  }
+
+  a {
+    display: flex;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.iframeWrapper {
+  overflow: hidden;
+  padding-top: 56.25%;
+}
+
+.iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.footer {
+  color: variables.$primary-colors-2-000000;
+  margin: 16px 0;
+
+  @include breakpoints.mobile {
+    margin: 8px 0 16px 0;
+  }
+}
+
+.wrapperText,
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cardCategory {
+  padding: 6px 12px;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+  color: variables.$primary-colors-white;
+  text-transform: uppercase;
+  background-color: variables.$primary-colors-2-000000;
+  cursor: pointer;
+}
+
+.wrapper {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.date,
+.author {
+  display: flex;
+  align-items: center;
+}
+
+.date {
+  margin-right: 24px;
+}
+
+.iconCalendar {
+  path {
+    stroke: variables.$primary-colors-2-000000;
+  }
+}
+
+.iconAuthor {
+  path {
+    fill: variables.$primary-colors-2-000000;
+  }
+}
+
+.dateText,
+.authorText {
+  margin-left: 9px;
+}
+
+.text {
+  font-size: 16px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: variables.$primary-colors-2-000000;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  strong {
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 16px;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 500;
+  }
+
+  a {
+    color: variables.$primary-colors-red;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

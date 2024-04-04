@@ -1,0 +1,11 @@
+@use 'styles/breakpoints' as breakpoints;
+
+.root {
+  width: 1365px;
+  margin: 0 auto;
+
+  @include breakpoints.downDesktop {
+    width: 100vw;
+    padding: 0 breakpoints.$mobileSpace;
+  }
+}

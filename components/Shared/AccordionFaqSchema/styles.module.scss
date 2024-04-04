@@ -1,0 +1,108 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.root {
+  margin-bottom: 8px;
+}
+
+.accordionSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.accordion {
+  background-color: variables.$primary-colors-grey;
+  color: variables.$primary-colors-2-000000;
+  cursor: pointer;
+  height: unset;
+  padding: 12px 24px;
+  display: flex;
+  align-items: center;
+  transition: background-color 0.6s ease;
+  white-space: unset;
+  border: unset;
+}
+
+.accordionQuestion {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1;
+  width: 100%;
+  text-align: left;
+}
+
+.accordionIcon {
+  margin-left: auto;
+  transition: transform 0.6s ease;
+
+  & > g > path:nth-child(2) {
+    fill: variables.$primary-colors-darkGray;
+  }
+}
+
+.rotate {
+  transform: rotate(180deg);
+}
+
+.accordionContent {
+  background-color: variables.$primary-colors-grey;
+  transition: max-height 0.5s ease;
+  padding: 0 24px;
+  overflow-y: hidden;
+}
+
+.accordionText {
+  font-size: 14px;
+  font-weight: 300;
+  color: variables.$primary-colors-2-000000;
+  text-align: left;
+
+  p {
+    &:last-of-type {
+      padding-bottom: 16px;
+    }
+  }
+}
+
+.faqWrapper {
+  margin-bottom: 32px;
+
+  @include breakpoints.mobile {
+    margin-bottom: 16px;
+  }
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+
+  .accordion {
+    background-color: variables.$primary-colors-white;
+    padding: 24px;
+
+    @include breakpoints.mobile {
+      padding: 24px 16px;
+    }
+  }
+
+  .accordionQuestion {
+    font-size: 26px;
+
+    @include breakpoints.mobile {
+      font-size: 20px;
+      line-height: 1.35;
+    }
+  }
+
+  .accordionIcon {
+    width: 24px;
+    height: 24px;
+  }
+
+  .accordionContent {
+    background-color: variables.$primary-colors-white;
+
+    div {
+      padding-bottom: 12px;
+    }
+  }
+}

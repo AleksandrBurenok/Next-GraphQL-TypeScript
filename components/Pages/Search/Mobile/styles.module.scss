@@ -1,0 +1,30 @@
+@use 'styles/variables' as variables;
+
+.main {
+  padding: 0;
+  margin-top: 10px;
+}
+
+.title {
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 1.23;
+  color: variables.$primary-colors-2-000000;
+  margin-bottom: 40px;
+}
+
+.subTitle {
+  font-size: 14px;
+  font-weight: normal;
+  line-height: normal;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.wrapperPreloader {
+  text-align: center;
+}
+
+.error {
+  margin-top: 10px;
+  text-align: center;
+}

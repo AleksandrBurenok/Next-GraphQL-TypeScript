@@ -1,0 +1,129 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.root {
+  margin-top: 8px;
+  font-size: 14px;
+  text-align: center;
+
+  @include breakpoints.downDesktop {
+    font-size: 13px;
+  }
+}
+
+.league {
+  margin-bottom: 24px;
+}
+
+.wrapper {
+  @include breakpoints.downDesktop {
+    overflow: scroll hidden;
+  }
+}
+
+.wrapperTeam {
+  color: rgba(0, 0, 0, 0.85);
+  padding: 0 14px;
+  display: grid;
+  grid-template-columns:
+    minmax(30px, 1fr)
+    minmax(220px, 1.67fr)
+    minmax(50px, 1.67fr)
+    minmax(50px, 1.67fr)
+    minmax(50px, 3.33fr)
+    minmax(50px, 1.67fr)
+    minmax(50px, 3.33fr)
+    minmax(50px, 3.33fr)
+    minmax(50px, 3.33fr)
+    minmax(50px, 3.33fr)
+    minmax(50px, 1.67fr);
+
+  &:nth-of-type(-n + 6) {
+    font-weight: 500;
+  }
+
+  &:nth-of-type(odd) {
+    background-color: variables.$primary-colors-grey;
+
+    .span {
+      background-color: variables.$primary-colors-grey;
+    }
+  }
+
+  @include breakpoints.downDesktop {
+    grid-template-columns:
+      minmax(25px, 1fr)
+      minmax(175px, 1.67fr)
+      minmax(50px, 1.67fr)
+      minmax(50px, 1.67fr)
+      minmax(50px, 3.33fr)
+      minmax(50px, 1.67fr)
+      minmax(50px, 3.33fr)
+      minmax(50px, 3.33fr)
+      minmax(50px, 3.33fr)
+      minmax(50px, 3.33fr)
+      minmax(60px, 1.67fr);
+  }
+}
+
+.span {
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.wrapper {
+  .lightGreen {
+    background-color: variables.$primary-color-green2;
+
+    .span {
+      background-color: variables.$primary-color-green2;
+    }
+  }
+
+  .darkGreen {
+    background-color: variables.$primary-color-green3;
+
+    .span {
+      background-color: variables.$primary-color-green3;
+    }
+  }
+}
+
+.club {
+  display: flex;
+  align-items: center;
+  text-align: left;
+}
+
+.teamName {
+  margin-left: 15px;
+}
+
+.line {
+  display: flex;
+  width: 4px;
+  height: 10px;
+  border-radius: 2px;
+  margin-right: 6px;
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+.wrapper {
+  .wrapperTeam {
+    .red {
+      background-color: variables.$primary-colors-red1;
+    }
+
+    .green {
+      background-color: variables.$primary-color-green1;
+    }
+
+    .grey {
+      background-color: variables.$primary-colors-darkGray2;
+    }
+  }
+}

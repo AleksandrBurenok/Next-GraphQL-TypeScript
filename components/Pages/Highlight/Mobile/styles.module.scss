@@ -1,0 +1,22 @@
+@use 'styles/variables' as variables;
+
+.bannersTop,
+.bannersBottom {
+  margin-bottom: 24px;
+}
+
+.buttonsWrapper {
+  margin-bottom: 16px;
+}
+
+.button {
+  background-color: variables.$primary-colors-red1;
+  color: variables.$primary-colors-white;
+  font-size: 14px;
+  height: 30px;
+  max-width: 140px;
+
+  &:first-of-type {
+    margin-right: 10px;
+  }
+}

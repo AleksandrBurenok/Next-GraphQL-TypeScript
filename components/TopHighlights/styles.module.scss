@@ -1,0 +1,135 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.root {
+  margin-bottom: 32px;
+}
+
+.wrapperTitle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.title {
+  margin: 0;
+}
+
+.showAll {
+  padding: 6.5px 19px;
+  background-color: variables.$primary-colors-grey;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  font-size: 14px;
+  font-weight: 300;
+  color: variables.$primary-colors-2-000000;
+  cursor: pointer;
+
+  &:hover {
+    background-color: variables.$primary-colors-gray-6;
+  }
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -12px;
+
+  @include breakpoints.mobile {
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.highlight {
+  display: flex;
+  width: calc(100% / 6);
+  padding: 0 12px;
+
+  &:hover {
+    .icon {
+      path {
+        fill: variables.$primary-colors-white;
+
+        &:nth-child(2) {
+          fill: variables.$primary-colors-red;
+        }
+      }
+    }
+  }
+
+  @include breakpoints.downTablet {
+    width: calc(100% / 3);
+  }
+
+  @include breakpoints.mobile {
+    width: 100%;
+    margin-bottom: 16px;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.link {
+  width: 100%;
+
+  @include breakpoints.mobile {
+    min-height: 22.4vh;
+    text-align: center;
+  }
+}
+
+.imageWrapper {
+  display: flex;
+  margin-bottom: 8px;
+}
+
+.icon {
+  margin: auto;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.tag {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  color: variables.$primary-colors-white;
+  background-color: variables.$primary-colors-2-000000;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+  padding: 6px 11px;
+}
+
+.title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: block;
+}
+
+.highlightBanner {
+  display: flex;
+
+  @include breakpoints.downTablet {
+    display: none;
+  }
+
+  @include breakpoints.mobile {
+    display: flex;
+  }
+}
+
+.banner {
+  @include breakpoints.mobile {
+    width: 100%;
+    height: auto;
+  }
+}

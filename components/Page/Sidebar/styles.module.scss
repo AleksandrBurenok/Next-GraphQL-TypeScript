@@ -1,0 +1,15 @@
+@use 'styles/breakpoints' as breakpoints;
+
+.sidebar {
+  width: 300px;
+  max-width: 100%;
+
+  @include breakpoints.downTablet {
+    width: 100%;
+    margin-bottom: 32px;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+}

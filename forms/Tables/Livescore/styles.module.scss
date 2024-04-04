@@ -1,0 +1,33 @@
+@use 'styles/variables' as variables;
+
+.wrapperDropdowns {
+  display: flex;
+  align-items: center;
+}
+
+.wrapperDropdown {
+  &:first-of-type {
+    margin-right: 16px;
+  }
+}
+
+.select {
+  height: 32px;
+  border: solid 1px rgba(0, 0, 0, 0.25);
+  border-radius: 0;
+  padding: 0 20px 0 8px;
+  font-size: 14px;
+  color: variables.$primary-colors-darkGray;
+  display: flex;
+  align-items: center;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.center {
+  text-align: center;
+}

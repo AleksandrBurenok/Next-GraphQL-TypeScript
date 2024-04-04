@@ -1,0 +1,29 @@
+@use 'styles/breakpoints' as breakpoints;
+
+.bannerWrap {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+  max-height: 208px;
+  justify-content: space-between;
+  flex-direction: row;
+
+  @include breakpoints.mobile {
+    justify-content: center;
+    flex-direction: column;
+  }
+}
+
+.link {
+  max-height: 100px;
+  max-width: 100%;
+
+  &:first-child {
+    margin-bottom: 8px;
+  }
+}
+
+.banner {
+  width: 100%;
+  height: 100px;
+}

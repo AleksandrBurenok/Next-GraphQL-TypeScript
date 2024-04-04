@@ -1,0 +1,43 @@
+@use 'styles/variables' as variables;
+
+.teamBox {
+  width: 100%;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: normal;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+.wrapperTeam {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.wrapperTime {
+  display: flex;
+  align-items: center;
+}
+
+.time {
+  margin-right: 5px;
+}
+
+.timeRemaining {
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 1.17;
+  color: variables.$primary-colors-red;
+}
+
+.wrapperImg {
+  display: flex;
+  align-items: center;
+}
+
+.teamName {
+  margin: 0 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

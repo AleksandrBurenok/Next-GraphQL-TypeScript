@@ -1,0 +1,137 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.wrapperGroups {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 0 29px -1px;
+
+  @include breakpoints.mobile {
+    margin: 0 0 24px 0;
+  }
+}
+
+.wrapperGroupsHalf {
+  width: 50%;
+  margin: 0 auto;
+
+  @include breakpoints.mobile {
+    width: 100%;
+    margin-bottom: 24px;
+  }
+}
+
+.wrapperGroupsQuarter {
+  width: 25%;
+  margin: 0 auto;
+
+  @include breakpoints.mobile {
+    width: 100%;
+    margin-bottom: 24px;
+  }
+}
+
+.group {
+  margin: 0 6.5px 32px 6.5px;
+  min-width: 240px;
+  max-width: 240px;
+
+  @include breakpoints.mobile {
+    margin: 0 0 16px 0;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+.wrapperCountries {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+
+  @include breakpoints.mobile {
+    margin-bottom: 0;
+  }
+}
+
+.wrapperHexagon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+  width: 32px;
+  height: 34px;
+}
+
+.hexagonText {
+  position: absolute;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.29;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+.greyLine {
+  width: 1px;
+  height: 100%;
+  background-color: variables.$primary-colors-darkGray5;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  z-index: 1;
+}
+
+.wrapperCountry {
+  display: flex;
+  align-items: center;
+  background-color: variables.$primary-colors-white;
+  width: 50%;
+  cursor: pointer;
+  padding: 15px 0;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid variables.$primary-colors-white;
+
+  &:hover {
+    border-right: 1px solid variables.$primary-colors-white;
+    border-left: 1px solid variables.$primary-colors-darkGray5;
+    border-top: 1px solid variables.$primary-colors-darkGray5;
+    border-bottom: 1px solid variables.$primary-colors-darkGray5;
+
+    &:last-of-type {
+      border-right: 1px solid variables.$primary-colors-darkGray5;
+      border-left: 1px solid variables.$primary-colors-white;
+      border-top: 1px solid variables.$primary-colors-darkGray5;
+      border-bottom: 1px solid variables.$primary-colors-darkGray5;
+    }
+  }
+}
+
+.selectedCountry {
+  pointer-events: none;
+  border: 1px solid variables.$primary-color-green5;
+  background-color: variables.$primary-colors-light1;
+}
+
+.iconCheck {
+  position: absolute;
+  right: 4px;
+  top: 4px;
+}
+
+.nameCountry {
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.29;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.85);
+}

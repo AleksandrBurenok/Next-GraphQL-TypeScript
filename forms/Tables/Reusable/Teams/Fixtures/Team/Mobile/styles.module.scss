@@ -1,0 +1,88 @@
+@use 'styles/variables' as variables;
+
+.team {
+  padding: 14px 12px 14px 8px;
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  min-height: 36px;
+  font-size: 14px;
+
+  &:nth-of-type(odd) {
+    background-color: variables.$primary-colors-grey;
+  }
+}
+
+.wrapperFixturesTeam {
+  display: flex;
+  align-items: center;
+}
+
+.wrapperFixtureBtn {
+  display: flex;
+}
+
+.btnH2h {
+  height: 24px;
+  padding: 0 10px;
+  margin: 0 6px;
+  font-size: 13px;
+  color: variables.$primary-colors-gray-3;
+  background-color: transparent;
+  border: 1px solid variables.$primary-colors-gray-3;
+  border-radius: 4px;
+  white-space: nowrap;
+
+  &:hover {
+    color: variables.$primary-colors-darkGray;
+    border-color: variables.$primary-colors-darkGray;
+    background-color: transparent;
+  }
+}
+
+.wrapperScore {
+  display: flex;
+  align-items: center;
+}
+
+.score {
+  width: unset;
+  padding: 0 15px;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  color: variables.$primary-colors-red2;
+  font-weight: 500;
+  font-size: 14px;
+
+  &:hover {
+    color: variables.$primary-colors-red;
+    text-decoration: underline;
+  }
+}
+
+.scoreText {
+  margin-bottom: 9px;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+.iconStar {
+  cursor: pointer;
+  path {
+    fill: variables.$primary-colors-gray;
+  }
+}
+
+.time {
+  color: variables.$primary-colors-2-000000;
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

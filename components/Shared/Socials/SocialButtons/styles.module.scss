@@ -1,0 +1,43 @@
+@use 'styles/variables' as variables;
+
+.root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px -4px 26px -4px;
+}
+
+.button {
+  width: 140px;
+  height: 40px;
+  color: variables.$primary-colors-white;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 4px;
+  border: none;
+  cursor: pointer;
+
+  &:hover {
+    color: variables.$primary-colors-white;
+    opacity: 0.8;
+  }
+}
+
+.icon {
+  margin-right: 8px;
+}
+
+.facebook {
+  background-color: variables.$primary-color-blue;
+}
+
+.twitter {
+  background-color: variables.$primary-color-blue1;
+}
+
+.line {
+  background-color: variables.$primary-color-green4;
+}

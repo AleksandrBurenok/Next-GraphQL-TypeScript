@@ -1,0 +1,18 @@
+.main {
+  padding-left: 0;
+}
+
+.topTables {
+  border-top: none;
+  padding-top: 6px;
+
+  &:first-of-type {
+    padding-top: 0;
+  }
+
+  h1 {
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 1.23;
+  }
+}

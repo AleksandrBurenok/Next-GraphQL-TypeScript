@@ -1,0 +1,144 @@
+@use 'styles/variables' as variables;
+
+.main {
+  padding-left: 0;
+}
+
+.title {
+  margin-bottom: 40px;
+}
+
+.wrapperPrizes {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-flow: row wrap;
+  margin-bottom: 80px;
+}
+
+.wrapperPrizeStage {
+  border-radius: 8px;
+  border: 1px solid variables.$primary-colors-gray-12;
+  width: 248px;
+  margin-bottom: 19px;
+  cursor: pointer;
+
+  &:last-of-type {
+    margin-bottom: 0;
+    width: 100%;
+  }
+
+  &:hover {
+    .wrapperZoomIcon {
+      display: flex;
+    }
+  }
+}
+
+.wrapperPrizeStageTop {
+  background-color: variables.$primary-colors-gray-12;
+  padding: 16px 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.finalPrizeIconLeft {
+  position: absolute;
+  left: -27px;
+  bottom: -61px;
+}
+
+.finalPrizeIconRight {
+  position: absolute;
+  right: -20px;
+  bottom: -57px;
+}
+
+.wrapperStageName {
+  padding: 12px 14px;
+  border-radius: 4px;
+  background-color: variables.$primary-colors-white;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 0.67;
+  text-transform: uppercase;
+  color: variables.$primary-colors-red;
+  z-index: 1;
+}
+
+.wrapperImage {
+  height: 188px;
+  width: 188px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapperImageFinal {
+  width: 248px;
+}
+
+.wrapperZoomIcon {
+  display: none;
+  position: absolute;
+  right: 16px;
+  bottom: 49px;
+}
+
+.prizeName {
+  font-size: 20px;
+  font-weight: normal;
+  line-height: normal;
+  color: variables.$primary-colors-2-000000;
+  z-index: 1;
+}
+
+.wrapperPrizeStageBottom {
+  padding: 16px 0;
+  font-size: 16px;
+  line-height: normal;
+  text-align: center;
+  color: variables.$primary-colors-2-000000;
+}
+
+.currentWinner {
+  font-size: 12px;
+  color: variables.$primary-colors-gray-3;
+  margin-bottom: 4px;
+  text-transform: uppercase;
+}
+
+.content {
+  margin-bottom: 0;
+  color: variables.$primary-colors-2-000000;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: normal;
+
+  p {
+    margin-bottom: 16px;
+  }
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-bottom: 16px;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 1;
+    color: variables.$primary-colors-2-000000;
+  }
+}
+
+.paper {
+  width: 668px;
+  height: 596px;
+  padding: 16px;
+  display: flex;
+}

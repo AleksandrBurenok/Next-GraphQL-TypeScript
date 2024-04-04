@@ -1,0 +1,31 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.arrowButton {
+  width: 40px;
+  height: 56px;
+  border: none;
+  background-color: variables.$primary-colors-white;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+
+  @include breakpoints.mobile {
+    width: 32px;
+  }
+}
+
+.arrowButtonPrev {
+  left: 0;
+}
+
+.arrowButtonNext {
+  right: 0;
+}

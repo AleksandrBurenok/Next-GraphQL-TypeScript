@@ -1,0 +1,40 @@
+@use 'styles/variables' as variables;
+
+.root {
+  background-color: variables.$primary-colors-dark;
+  width: 100%;
+  color: variables.$primary-colors-white;
+  padding: 40px 0;
+}
+
+.wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.title {
+  color: variables.$primary-colors-white;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.86;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  width: 15%;
+}
+
+.line {
+  background-color: variables.$primary-colors-gray;
+  height: 1px;
+  margin: 16px 0;
+}
+
+.copyright {
+  opacity: 0.7;
+  font-size: 14px;
+  font-weight: 300;
+  margin-top: 19px;
+}

@@ -1,0 +1,41 @@
+@use 'styles/variables' as variables;
+
+.widget {
+  margin-bottom: 40px;
+}
+
+.widgetTitle {
+  text-transform: uppercase;
+  margin-bottom: 16px;
+  color: variables.$primary-colors-2-000000;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.widgetList {
+  list-style-type: none;
+  border: 1px solid variables.$primary-colors-gray-2;
+  background-color: variables.$primary-colors-white;
+  padding: 24px 16px;
+}
+
+.widgetItem {
+  padding-bottom: 17px;
+  border-bottom: 1px solid variables.$primary-colors-gray-2;
+  margin-bottom: 17px;
+  &:last-of-type {
+    padding-bottom: 0;
+    border-bottom: unset;
+    margin-bottom: 0;
+  }
+}
+
+.widgetLink {
+  display: flex;
+  align-items: center;
+  color: variables.$primary-colors-2-000000;
+}
+
+.icon {
+  margin-right: 16px;
+}

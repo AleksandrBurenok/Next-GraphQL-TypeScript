@@ -1,0 +1,30 @@
+@use 'styles/variables' as variables;
+
+.dates {
+  display: flex;
+  margin: 8px -2px 4px -2px;
+}
+
+.date {
+  border: none;
+  cursor: pointer;
+  background-color: variables.$primary-colors-gray-5;
+  font-size: 14px;
+  line-height: 1;
+  color: variables.$primary-colors-darkGray;
+  margin: 0 2px;
+  height: 34px;
+  padding: 0 10px;
+  flex: 1;
+  white-space: nowrap;
+
+  &:hover {
+    background-color: variables.$primary-colors-red;
+    color: variables.$primary-colors-white;
+  }
+}
+
+.active {
+  background-color: variables.$primary-colors-red3;
+  color: variables.$primary-colors-white;
+}

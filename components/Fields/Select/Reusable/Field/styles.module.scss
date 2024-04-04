@@ -1,0 +1,43 @@
+@use 'styles/variables' as variables;
+
+.root {
+  position: relative;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.box {
+  min-width: 160px;
+}
+
+.arrow {
+  position: absolute;
+  top: 0;
+  right: -15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(100% - 2px);
+  overflow: hidden;
+  background-color: inherit;
+
+  svg > g > path:nth-of-type(2) {
+    fill: variables.$primary-colors-darkGray;
+  }
+}
+
+.activeArrow {
+  transform: rotate(180deg);
+}
+
+.disabled {
+  opacity: 0.5;
+}
+
+.input {
+  padding-right: 32px;
+  display: flex;
+  align-items: center;
+}

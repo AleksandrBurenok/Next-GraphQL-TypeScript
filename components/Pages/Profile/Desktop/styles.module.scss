@@ -1,0 +1,57 @@
+@use 'styles/variables' as variables;
+
+.main {
+  padding: 0;
+  margin-top: 10px;
+}
+
+.background {
+  background-color: variables.$primary-colors-grey;
+  padding: 40px 32px 88px 32px;
+}
+
+.title {
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 1;
+  color: variables.$primary-colors-2-000000;
+  margin-bottom: 56px;
+}
+
+.userInfo {
+  display: flex;
+  align-items: center;
+}
+
+.wrapperAvatar {
+  background-color: variables.$primary-colors-dark;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 16px;
+}
+
+.wrapperUserInfo {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.username {
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.stick {
+  width: 1px;
+  background-color: variables.$primary-colors-darkGray5;
+  height: 136px;
+  margin: 0 47.5px 0 67.5px;
+}
+
+.noLoginText {
+  font-size: 16px;
+}

@@ -1,0 +1,21 @@
+.root {
+  position: relative;
+}
+
+.textarea {
+  height: 184px;
+}
+
+.error {
+  border: solid 1px red;
+
+  &:focus-visible {
+    outline: solid 1px red;
+  }
+}
+
+.p {
+  position: absolute;
+  bottom: 16px;
+  left: 16px;
+}

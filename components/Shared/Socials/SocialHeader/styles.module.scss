@@ -1,0 +1,78 @@
+@use 'styles/variables' as variables;
+
+.wrapper {
+  border-radius: 4px 4px 0 0;
+
+  &:hover {
+    box-shadow: 0 2px 14px 0 rgba(0, 0, 0, 0.14);
+    background-color: #373535;
+  }
+
+  &:hover .arrowIcon {
+    transform: rotate(180deg);
+    transition: transform 0.6s ease;
+  }
+
+  &:hover .bottomPart {
+    display: block;
+  }
+}
+
+.current {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  cursor: pointer;
+
+  &:hover {
+    .link,
+    .arrowDownWrap {
+      opacity: 1;
+    }
+  }
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  opacity: 0.7;
+}
+
+.arrowIcon {
+  transform: rotate(0deg);
+  transition: transform 0.6s ease;
+}
+
+.bottomPart {
+  box-shadow: 0 2px 14px 0 rgba(0, 0, 0, 0.14);
+  border-radius: 0 0 4px 4px;
+  background-color: #373535;
+  position: absolute;
+  top: 85%;
+  display: none;
+  padding: 10px 5px 5px 5px;
+  z-index: 1;
+}
+
+.bottomLink {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+  margin-bottom: 8px;
+  padding: 4px 8px;
+  opacity: 0.7;
+
+  svg {
+    width: 24px;
+  }
+
+  &:hover,
+  &:active {
+    background-color: #6d6d6d;
+    opacity: 1;
+  }
+}

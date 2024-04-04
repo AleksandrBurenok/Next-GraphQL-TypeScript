@@ -1,0 +1,96 @@
+@use 'styles/variables' as variables;
+
+.root {
+  position: absolute;
+  left: 0;
+  top: 63px;
+  background-color: variables.$primary-colors-dark;
+  color: variables.$primary-colors-white;
+  width: 100vw;
+  height: 100vh;
+  padding: 0 16px;
+}
+
+.wrapperSubMenu {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  list-style-type: none;
+  max-height: 75vh;
+  overflow: hidden auto;
+
+  &:first-of-type {
+    margin-top: 36px;
+  }
+}
+
+.menuTop {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  list-style-type: none;
+
+  &:first-of-type {
+    margin-top: 36px;
+  }
+}
+
+.menuItem {
+  flex-basis: 47%;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  padding-bottom: 4px;
+}
+
+.insideMenu {
+  display: none;
+  background-color: transparent;
+}
+
+.buttonArrow {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border: unset;
+  background-color: unset;
+  width: 48px;
+  height: 24px;
+  padding: 0;
+}
+
+.icon {
+  transform: rotate(180deg);
+  transition: transform 0.3s ease-in-out;
+}
+
+.active {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.menuItemBottom {
+  border-bottom: unset;
+}
+
+.wrapperSocials {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  bottom: 24px;
+  width: 100%;
+  padding-right: 32px;
+}
+
+.headerDropdown {
+  top: auto;
+  bottom: 43px;
+}

@@ -1,0 +1,33 @@
+.paper {
+  max-width: 27.709vw;
+  padding: 0;
+  background-color: transparent;
+  box-shadow: unset;
+  margin-top: 46px;
+}
+
+.internal,
+.rootInternal {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  width: 100%;
+}
+
+.closeBtn {
+  top: -15px;
+}
+
+.bannerLink {
+  display: flex;
+
+  &:first-of-type {
+    margin-bottom: 16px;
+  }
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+}

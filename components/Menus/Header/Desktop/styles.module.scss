@@ -1,0 +1,133 @@
+@use 'styles/variables' as variables;
+@use 'styles/typography' as typography;
+
+.menuTop {
+  display: flex;
+  align-content: center;
+}
+
+.menuItem {
+  list-style-type: none;
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 64px;
+
+  &:hover {
+    .menuLink {
+      color: variables.$primary-colors-white;
+      opacity: 1;
+    }
+
+    .subMenuTop {
+      display: flex;
+    }
+  }
+
+  .menuLink {
+    color: variables.$primary-colors-white;
+    opacity: 0.8;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+
+  .subMenuTop {
+    display: none;
+    justify-content: space-between;
+    background-color: variables.$primary-colors-white;
+    padding: 24px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px 0 rgb(0 0 0 / 20%);
+    min-width: 480px;
+    position: absolute;
+    top: 90%;
+    left: -25px;
+    right: 0;
+    z-index: 1;
+
+    .menuItem {
+      height: unset;
+    }
+
+    .menuLink {
+      @include typography.priceOrLink;
+      padding: 0;
+      opacity: 1;
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+
+      &:hover {
+        .rightSide {
+          display: flex;
+        }
+      }
+    }
+
+    .linkText {
+      opacity: 0.7;
+      margin-left: 12px;
+    }
+
+    .insideMenu {
+      align-items: flex-start;
+      flex-direction: column;
+
+      li {
+        margin-bottom: 24px;
+
+        &:last-of-type {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 12px solid variables.$primary-colors-white;
+  position: absolute;
+  top: -6px;
+  left: 45px;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.rightSide {
+  display: flex;
+  background-color: transparent;
+  flex-direction: column;
+  background-color: variables.$primary-colors-grey;
+  padding: 16px 27px;
+}
+
+.leftSide {
+  width: 100%;
+
+  .menuItem {
+    margin-bottom: 24px;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.tabs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tab {
+  padding: 0;
+  min-width: 257px;
+  border-radius: 6px;
+  background-color: transparent;
+}

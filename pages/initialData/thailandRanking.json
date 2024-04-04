@@ -1,0 +1,444 @@
+{
+  "leagues": [
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NjUzNTI=",
+        "title": "Thai League 3 – North",
+        "slug": "thai-league-3-north",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - North เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - North ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - North เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - North ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-north/\",\"url\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-north/\",\"name\":\"Thai League 3 - North \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-02-21T12:39:37+00:00\",\"dateModified\":\"2023-02-21T12:39:50+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - North \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-north/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-north/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-north/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01\",\"item\":\"https://newbackend.buaksib.com/football-thailand-ranking/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; North\"}]}]}"
+          }
+        },
+        "football_tables": {
+          "__typename": "Page_FootballTables",
+          "topContent": null
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NjUzNTA=",
+        "title": "Thai League 3 – North East",
+        "slug": "thai-league-3-north-east",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - North East เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - North East ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - North East เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - North East ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-north-east/\",\"url\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-north-east/\",\"name\":\"Thai League 3 - North East \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-02-21T12:38:41+00:00\",\"dateModified\":\"2023-02-21T12:38:57+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - North East \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-north-east/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-north-east/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-north-east/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01\",\"item\":\"https://newbackend.buaksib.com/football-thailand-ranking/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; North East\"}]}]}"
+          }
+        },
+        "football_tables": {
+          "__typename": "Page_FootballTables",
+          "topContent": null
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NjUzNDg=",
+        "title": "Thai League 3 – South",
+        "slug": "thai-league-3-south",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - South เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - South ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - South เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - South ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-south/\",\"url\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-south/\",\"name\":\"Thai League 3 - South \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-02-21T12:16:08+00:00\",\"dateModified\":\"2023-02-21T12:16:08+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - South \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-south/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-south/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-south/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01\",\"item\":\"https://newbackend.buaksib.com/football-thailand-ranking/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; South\"}]}]}"
+          }
+        },
+        "football_tables": {
+          "__typename": "Page_FootballTables",
+          "topContent": null
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NjUzNDU=",
+        "title": "Thai League 3 – East",
+        "slug": "thai-league-3-east",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - East เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - East ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - East เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - East ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-east/\",\"url\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-east/\",\"name\":\"Thai League 3 - East \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-02-21T12:15:20+00:00\",\"dateModified\":\"2023-02-21T12:15:20+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - East \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-east/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-east/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-east/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01\",\"item\":\"https://newbackend.buaksib.com/football-thailand-ranking/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; East\"}]}]}"
+          }
+        },
+        "football_tables": {
+          "__typename": "Page_FootballTables",
+          "topContent": null
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NjUzNDM=",
+        "title": "Thai League 3 – West",
+        "slug": "thai-league-3-west",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - West เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - West ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - West เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - West ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-west/\",\"url\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-west/\",\"name\":\"Thai League 3 - West \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-02-21T12:14:27+00:00\",\"dateModified\":\"2023-02-21T12:14:27+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - West \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-west/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-west/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-west/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01\",\"item\":\"https://newbackend.buaksib.com/football-thailand-ranking/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; West\"}]}]}"
+          }
+        },
+        "football_tables": {
+          "__typename": "Page_FootballTables",
+          "topContent": null
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NjUzNDE=",
+        "title": "Thai League 3 – Play-offs",
+        "slug": "thai-league-3-play-offs",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 - Play-offs เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 - Play-offs ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 - Play-offs เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 - Play-offs ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-play-offs/\",\"url\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-play-offs/\",\"name\":\"Thai League 3 - Play-offs \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-02-21T12:13:06+00:00\",\"dateModified\":\"2023-02-21T12:13:33+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 - Play-offs \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-play-offs/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-play-offs/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-play-offs/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01\",\"item\":\"https://newbackend.buaksib.com/football-thailand-ranking/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3 &#8211; Play-offs\"}]}]}"
+          }
+        },
+        "football_tables": {
+          "__typename": "Page_FootballTables",
+          "topContent": null
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NjUzMzg=",
+        "title": "Championship Round",
+        "slug": "thai-league-3-championship-round",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Championship Round เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Championship Round ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Championship Round เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Championship Round ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-championship-round/\",\"url\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-championship-round/\",\"name\":\"Championship Round \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-02-21T12:12:04+00:00\",\"dateModified\":\"2023-02-21T12:12:29+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Championship Round \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-championship-round/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-championship-round/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-championship-round/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01\",\"item\":\"https://newbackend.buaksib.com/football-thailand-ranking/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Championship Round\"}]}]}"
+          }
+        },
+        "football_tables": {
+          "__typename": "Page_FootballTables",
+          "topContent": null
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NjUzMzU=",
+        "title": "Thai League 3",
+        "slug": "thai-league-3-bkk-perimeter",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 3 เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 3 ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 3 เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 3 ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-bkk-perimeter/\",\"url\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-bkk-perimeter/\",\"name\":\"Thai League 3 \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-02-21T12:10:42+00:00\",\"dateModified\":\"2023-02-21T12:11:26+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 3 \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-bkk-perimeter/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-bkk-perimeter/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-3-bkk-perimeter/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01\",\"item\":\"https://newbackend.buaksib.com/football-thailand-ranking/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 3\"}]}]}"
+          }
+        },
+        "football_tables": {
+          "__typename": "Page_FootballTables",
+          "topContent": null
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NjUzMzM=",
+        "title": "Thai League 2",
+        "slug": "thai-league-two",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai League 2 เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai League 2 ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai League 2 เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai League 2 ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-two/\",\"url\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-two/\",\"name\":\"Thai League 2 \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-02-21T12:08:53+00:00\",\"dateModified\":\"2023-02-22T07:30:26+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai League 2 \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-two/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-two/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-league-two/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01\",\"item\":\"https://newbackend.buaksib.com/football-thailand-ranking/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai League 2\"}]}]}"
+          }
+        },
+        "football_tables": {
+          "__typename": "Page_FootballTables",
+          "topContent": null
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NjUzMzE=",
+        "title": "Thai Champions Cup",
+        "slug": "thai-championship-league",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai Champions Cup เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai Champions Cup ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai Champions Cup เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai Champions Cup ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-championship-league/\",\"url\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-championship-league/\",\"name\":\"Thai Champions Cup \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-02-21T12:06:46+00:00\",\"dateModified\":\"2023-02-21T12:07:02+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai Champions Cup \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-championship-league/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/football-thailand-ranking/thai-championship-league/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-championship-league/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01\",\"item\":\"https://newbackend.buaksib.com/football-thailand-ranking/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai Champions Cup\"}]}]}"
+          }
+        },
+        "football_tables": {
+          "__typename": "Page_FootballTables",
+          "topContent": null
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    },
+    {
+      "__typename": "HierarchicalContentNodeToContentNodeChildrenConnectionEdge",
+      "node": {
+        "__typename": "Page",
+        "id": "cG9zdDo0NjUzMjc=",
+        "title": "Thai Premier League",
+        "slug": "thai-premier-league",
+        "content": null,
+        "seo": {
+          "__typename": "PostTypeSEO",
+          "title": "Thai Premier League เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "metaDesc": "ติดตาม Thai Premier League ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "opengraphTitle": "Thai Premier League เว็บไซต์ บวกสิบ | เว็บไซต์ ข่าวฟุตบอล",
+          "opengraphDescription": "ติดตาม Thai Premier League ที่เพจบวกสิบ ข่าวฟุตบอลที่ดีที่สุดในไทย และข้อมูลเพิ่มเติม",
+          "metaKeywords": "",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": {
+            "__typename": "MediaItem",
+            "guid": null
+          },
+          "opengraphImage": {
+            "__typename": "MediaItem",
+            "guid": "https://newbackend.buaksib.com/wp-content/uploads/2017/04/Buaksib-TH-Football-News-Livescore-Prediction.jpg"
+          },
+          "schema": {
+            "__typename": "SEOPostTypeSchema",
+            "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://newbackend.buaksib.com/#organization\",\"name\":\"buaksib.com\",\"url\":\"https://newbackend.buaksib.com/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\",\"url\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"contentUrl\":\"https://newbackend.buaksib.com/wp-content/uploads/2017/02/logo-buaksib-1.png\",\"width\":158,\"height\":158,\"caption\":\"buaksib.com\"},\"image\":{\"@id\":\"https://newbackend.buaksib.com/#/schema/logo/image/\"}},{\"@type\":\"WebSite\",\"@id\":\"https://newbackend.buaksib.com/#website\",\"url\":\"https://newbackend.buaksib.com/\",\"name\":\"Buaksib\",\"description\":\"\\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25\\u0e2a\\u0e14 \\u0e23\\u0e32\\u0e04\\u0e32\\u0e1a\\u0e2d\\u0e25 \\u0e1c\\u0e25\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e1a\\u0e2d\\u0e25 \\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19 \\u0e44\\u0e2e\\u0e44\\u0e25\\u0e17\\u0e4c\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"publisher\":{\"@id\":\"https://newbackend.buaksib.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://newbackend.buaksib.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"WebPage\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-premier-league/\",\"url\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-premier-league/\",\"name\":\"Thai Premier League \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a | \\u0e40\\u0e27\\u0e47\\u0e1a\\u0e44\\u0e0b\\u0e15\\u0e4c \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\",\"isPartOf\":{\"@id\":\"https://newbackend.buaksib.com/#website\"},\"datePublished\":\"2023-02-21T12:04:03+00:00\",\"dateModified\":\"2023-03-23T14:22:31+00:00\",\"description\":\"\\u0e15\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21 Thai Premier League \\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e08\\u0e1a\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e1a \\u0e02\\u0e48\\u0e32\\u0e27\\u0e1f\\u0e38\\u0e15\\u0e1a\\u0e2d\\u0e25\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e43\\u0e19\\u0e44\\u0e17\\u0e22 \\u0e41\\u0e25\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e21\\u0e40\\u0e15\\u0e34\\u0e21\",\"breadcrumb\":{\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-premier-league/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://newbackend.buaksib.com/football-thailand-ranking/thai-premier-league/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://newbackend.buaksib.com/football-thailand-ranking/thai-premier-league/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e2b\\u0e25\\u0e31\\u0e01\",\"item\":\"https://newbackend.buaksib.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u0e15\\u0e32\\u0e23\\u0e32\\u0e07\\u0e04\\u0e30\\u0e41\\u0e19\\u0e19\\u0e44\\u0e17\\u0e22\\u0e25\\u0e35\\u0e01\",\"item\":\"https://newbackend.buaksib.com/football-thailand-ranking/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thai Premier League\"}]}]}"
+          }
+        },
+        "football_tables": {
+          "__typename": "Page_FootballTables",
+          "topContent": "<p>โปรแกรมฟุตบอลต่างประเทศ &#8211; แน่นอนว่าผู้ที่ชื่นชอบฟุตบอลส่วนใหญ่มักนิยมการดูเกมลูกหนังต่างประเทศ จากคุณภาพมาตรฐานที่สูง และสนุกกว่า ดังนั้น บวกสิบจึงได้รวบรวมโปรแกรมบอลสดให้ได้ติดตามกันอย่างครบถ้วน หากอยากทราบถึงตารางดูโปรแกรมบอลก็เพียงคลิกหน้าเว็บ จากนั้นจะปรากฏโปรแกรมฟุตบอลที่มีการแข่งขันให้ได้ทราบทั้งคู่แข่งขัน เวลาที่แข่ง ซึ่งมีทั้งลีกเล็ก ลีกใหญ่ทั่วโลกตามความต้องการ</p>\n<p>โปรแกรมฟุตบอลในประเทศ &#8211; ในส่วนของคอฟุตบอลไทย บวกสิบมีตารางโปรแกรมบอลให้ได้ติดตามเช่นเดียวกัน ทั้งศึกโตโยต้า ไทยลีก หรือไทยลีก 1 นอกจากนี้ยังมีเกมลีกที่รองลงมาอย่าง M-150 แชมเปี้ยนชิพ, เนชั่นแนลลีก หรือไทยลีก 3 ที่มีรายละเอียดทั้งสโมสรที่จะพบกัน วันเวลา และสนามที่จะทำการแข่งขันด้วย</p>\n<p><strong>ดูผลฟุตบอลบวกสิบอย่างไร</strong></p>\n<p>เช็คผลบอลต่างประเทศ &#8211; หากต้องการเช็คผลฟุตบอลต่างประเทศ ให้คลิกไปที่ผลบอลสด ซึ่งจะเป็นการรายงานผลแบบเรียลไทม์ โดยจะไล่ตั้งแต่คู่ที่กำลังแข่งขันอยู่แบ่งเป็นแต่ละลีก แน่นอนว่ามีครบทุกลีกให้ติดตาม</p>\n<p>เช็คผลบอลในประเทศ &#8211; ส่วนผลฟุตบอลในประเทศ จะไล่ตามโปรแกรมผลบอลทั้งไทยลีก 1 ไปจนถึง ไทยลีก 3 รวมถึงฟุตบอลถ้วย และฟุตบอลทีมชาติทุกทัวร์นาเมนต์ที่มีลงแข่งขัน นอกจากนี้ยังรวมไปถึงโปรแกรมบอลไทย u23 ซึ่งเป็นอีกหนึ่งทัวร์นาเมนต์ที่ยิ่งใหญ่ ซึ่งไทยมีผลงานน่าสนใจในปีที่ผ่านมา (2019) จากการเข้ารอบ 8 ทีมสุดท้ายได้หนแรก โดยการเช็คผลบอลกับบวกสิบจะทำให้คุณได้ทราบถึงผลงานแข่งขันนาทีต่อนาทีไม่พลาดทุกสกอร์สำคัญ</p>\n"
+        },
+        "tags": {
+          "__typename": "PageToTagConnection",
+          "edges": []
+        }
+      }
+    }
+  ]
+}

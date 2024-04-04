@@ -1,0 +1,12 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.root {
+  background-color: variables.$primary-colors-grey;
+  padding: 16px 35px 14px 36px;
+
+  @include breakpoints.mobile {
+    padding: 16px 16px 7px 16px;
+    margin: 0 -16px;
+  }
+}

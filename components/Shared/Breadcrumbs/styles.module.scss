@@ -1,0 +1,46 @@
+@use 'styles/variables' as variables;
+
+.breadcrumbs {
+  display: flex;
+  margin: 5px auto 30px;
+  font-size: 16px;
+}
+
+.breadcrumbsTop {
+  margin-top: 50px;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+}
+
+.parentTitle,
+.title {
+  font-weight: normal;
+  color: variables.$primary-colors-darkGray;
+  text-transform: uppercase;
+}
+
+.parentTitle {
+  cursor: pointer;
+
+  &:hover {
+    color: variables.$primary-colors-red;
+  }
+}
+
+.divider {
+  margin: 0 8px;
+  font-weight: normal;
+  color: variables.$primary-colors-darkGray;
+
+  &:after {
+    content: '/';
+  }
+}
+
+.icon {
+  cursor: pointer;
+}

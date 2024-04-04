@@ -1,0 +1,34 @@
+@use 'styles/variables' as variables;
+@use 'styles/typography' as typography;
+@use 'styles/breakpoints' as breakpoints;
+
+.submenu {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  background-color: variables.$primary-colors-white;
+}
+
+.menuItem {
+  margin-right: 32px;
+
+  &:last-of-type {
+    margin-right: 0;
+  }
+
+  @include breakpoints.mobile {
+    margin: 6px 0 6px 0;
+  }
+}
+
+.menuLink {
+  @include typography.priceOrLink;
+  padding: 8px 0;
+  cursor: pointer;
+
+  @include breakpoints.downTablet {
+    color: variables.$primary-colors-white;
+    opacity: 1;
+  }
+}

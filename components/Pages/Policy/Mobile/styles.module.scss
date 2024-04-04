@@ -1,0 +1,36 @@
+@use 'styles/variables' as variables;
+
+.main {
+  margin-top: 17px;
+}
+
+.title {
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 1.23;
+  color: variables.$primary-colors-2-000000;
+  margin-bottom: 40px;
+}
+
+.wrapper {
+  background-color: variables.$primary-colors-grey;
+  padding: 40px 16px;
+}
+
+.content {
+  p {
+    margin-bottom: 16px;
+  }
+
+  ul {
+    padding-left: 19px;
+  }
+
+  a {
+    color: variables.$primary-colors-red;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "desktop": {
+    "isGoogleAd": false,
+    "topBanners": [
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/11/ambking1234-960x100-1.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=slot1234"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/01/Welcome-Bonus-GCLUB-500_960x100.mp4",
+        "banner_title": "TOP 6",
+        "banner_url": "https://redirect.buaksib.com/?ck=gclub500thb"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/04/GCLUB_New_960x100.mp4",
+        "banner_title": "GCLUB",
+        "banner_url": "https://redirect.buaksib.com/?ck=reloadgclub"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/03/Ads_20230321_FishShootingByLnwasia_960x100.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=lnw-free-2000"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/03/Ads_20230320_FreeSpinsByLnwasia_960x100.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=lnwasia-free-slot"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/01/Ad_SBOBET-UFABET_960x100.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=s-bobet"
+      }
+    ]
+  },
+  "mobile": {
+    "isGoogleAd": false,
+    "topBanners": [
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/12/ambking1234-380x100-1.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=slot1234"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/01/Welcome-Bonus-GCLUB-500_380x100.mp4",
+        "banner_title": "M TOP 6",
+        "banner_url": "https://redirect.buaksib.com/?ck=gclub500thb"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/04/GCLUB_New_380x100.mp4",
+        "banner_title": "GCLUB",
+        "banner_url": "https://redirect.buaksib.com/?ck=reloadgclub"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/03/Ads_20230321_FishShootingByLnwasia_380x100.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=lnw-free-2000"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/03/Ads_20230320_FreeSpinsByLnwasia_380x100.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=lnwasia-free-slot"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/01/Ad_SBOBET-UFABET_380x100.mp4",
+        "banner_title": "M TOP 5",
+        "banner_url": "https://redirect.buaksib.com/?ck=s-bobet"
+      }
+    ]
+  },
+  "leftSidebar": [
+    {
+      "__typename": "Banner",
+      "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/Buaksib-Live-350x230-1.mp4",
+      "banner_title": "",
+      "banner_url": "https://redirect.buaksib.com/?ck=watch-football"
+    }
+  ],
+  "rightSidebar": {
+    "isGoogleAd": false,
+    "rightSidebarBanners": [
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/GC_Awareness_380x250.mp4",
+        "banner_title": "GC_Awareness",
+        "banner_url": "https://redirect.buaksib.com/?ck=gclubcasino"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/01/Ad_SBOBET-UFABET_350x230.mp4",
+        "banner_title": "SBOBET-UFABET",
+        "banner_url": "https://redirect.buaksib.com/?ck=s-bobet"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/01/Welcome-Bonus-GCLUB-500_350x230.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=gclub500thb"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/350x230_HP.mp4",
+        "banner_title": "Right Side HP ",
+        "banner_url": "https://redirect.buaksib.com/?ck=hp"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/Line-Buaksib-350x230-1.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=line"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/Buaksib-Live-350x230-1.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=watch-football"
+      }
+    ]
+  },
+  "homepageHighlights": {
+    "isGoogleAd": false,
+    "homeHighlightsBanners": [
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/01/Welcome-Bonus-GCLUB-500_350x230.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=gclub500thb"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/Line-Buaksib-350x230-1.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=line"
+      },
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/350x230_NEW1.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=line"
+      }
+    ]
+  },
+  "defaultPost": {
+    "desktop": [
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/04/GCLUB_New_960x100.mp4",
+        "banner_title": "GCLUB",
+        "banner_url": "https://redirect.buaksib.com/?ck=reloadgclub"
+      }
+    ],
+    "mobile": [
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/04/GCLUB_New_380x100.mp4",
+        "banner_title": "GCLUB",
+        "banner_url": "https://redirect.buaksib.com/?ck=reloadgclub"
+      }
+    ]
+  },
+  "highlightsPost": {
+    "bottom": {
+      "mobile": [
+        {
+          "__typename": "Banner",
+          "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/LINE-BUAKSIB-380x100-1.mp4",
+          "banner_title": "Line@Buaksib",
+          "banner_url": "https://redirect.buaksib.com/?ck=line"
+        },
+        {
+          "__typename": "Banner",
+          "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/Buaksib-Live-350x230-1.mp4",
+          "banner_title": "",
+          "banner_url": "https://redirect.buaksib.com/?ck=watch-football"
+        }
+      ],
+      "desktop": [
+        {
+          "__typename": "Banner",
+          "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/LINE-BUAKSIB-960x100-1.mp4",
+          "banner_title": "Line@Buaksib",
+          "banner_url": "https://redirect.buaksib.com/?ck=line"
+        },
+        {
+          "__typename": "Banner",
+          "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/Buaksib-Lives-960x100-1.mp4",
+          "banner_title": "",
+          "banner_url": "https://redirect.buaksib.com/?ck=watch-football"
+        }
+      ]
+    },
+    "top": {
+      "mobile": {
+        "isGoogleAd": false,
+        "topBanners": [
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/12/ambking1234-380x100-1.mp4",
+            "banner_title": "",
+            "banner_url": "https://redirect.buaksib.com/?ck=slot1234"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/04/GCLUB_New_380x100.mp4",
+            "banner_title": "GCLUB",
+            "banner_url": "https://redirect.buaksib.com/?ck=reloadgclub"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/01/Ad_SBOBET-UFABET_380x100.mp4",
+            "banner_title": "M TOP 5",
+            "banner_url": "https://redirect.buaksib.com/?ck=s-bobet"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/03/Ads_20230321_FishShootingByLnwasia_380x100.mp4",
+            "banner_title": "",
+            "banner_url": "https://redirect.buaksib.com/?ck=lnw-free-2000"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/10/Buaksib-Live-380x100-1.mp4",
+            "banner_title": "",
+            "banner_url": "https://redirect.buaksib.com/?ck=watch-football"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/03/Ads_20230320_FreeSpinsByLnwasia_380x100.mp4",
+            "banner_title": "",
+            "banner_url": "https://redirect.buaksib.com/?ck=lnwasia-free-slot"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/01/Welcome-Bonus-GCLUB-500_380x100.mp4",
+            "banner_title": "M TOP 6",
+            "banner_url": "https://redirect.buaksib.com/?ck=gclub500thb"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/LINE-BUAKSIB-380x100-1.mp4",
+            "banner_title": "Line@Buaksib",
+            "banner_url": "https://redirect.buaksib.com/?ck=line"
+          }
+        ]
+      },
+      "desktop": {
+        "isGoogleAd": false,
+        "topBanners": [
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/11/ambking1234-960x100-1.mp4",
+            "banner_title": "",
+            "banner_url": "https://redirect.buaksib.com/?ck=slot1234"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/04/GCLUB_New_960x100.mp4",
+            "banner_title": "GCLUB",
+            "banner_url": "https://redirect.buaksib.com/?ck=reloadgclub"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/01/Ad_SBOBET-UFABET_960x100.mp4",
+            "banner_title": "",
+            "banner_url": "https://redirect.buaksib.com/?ck=s-bobet"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/01/Welcome-Bonus-GCLUB-500_960x100.mp4",
+            "banner_title": "TOP 6",
+            "banner_url": "https://redirect.buaksib.com/?ck=gclub500thb"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/03/Ads_20230320_FreeSpinsByLnwasia_960x100.mp4",
+            "banner_title": "",
+            "banner_url": "https://redirect.buaksib.com/?ck=lnwasia-free-slot"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/03/Ads_20230321_FishShootingByLnwasia_960x100.mp4",
+            "banner_title": "",
+            "banner_url": "https://redirect.buaksib.com/?ck=lnw-free-2000"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/Buaksib-Lives-960x100-1.mp4",
+            "banner_title": "",
+            "banner_url": "https://redirect.buaksib.com/?ck=watch-football"
+          },
+          {
+            "__typename": "Banner",
+            "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/LINE-BUAKSIB-960x100-1.mp4",
+            "banner_title": "Line@Buaksib",
+            "banner_url": "https://redirect.buaksib.com/?ck=line"
+          }
+        ]
+      }
+    }
+  },
+  "highlightsPage": [
+    {
+      "__typename": "Banner",
+      "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/08/UFASEXYGAME-380x100-1.mp4",
+      "banner_title": "",
+      "banner_url": "https://redirect.buaksib.com/?ck=ufasexygame"
+    },
+    {
+      "__typename": "Banner",
+      "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/04/GCLUB_New_380x100.mp4",
+      "banner_title": "GCLUB",
+      "banner_url": "https://redirect.buaksib.com/?ck=reloadgclub"
+    },
+    {
+      "__typename": "Banner",
+      "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/03/Ads_20230321_FishShootingByLnwasia_380x100.mp4",
+      "banner_title": "",
+      "banner_url": "https://redirect.buaksib.com/?ck=lnw-free-2000"
+    },
+    {
+      "__typename": "Banner",
+      "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/03/Ads_20230320_FreeSpinsByLnwasia_380x100.mp4",
+      "banner_title": "",
+      "banner_url": "https://redirect.buaksib.com/?ck=lnwasia-free-slot"
+    },
+    {
+      "__typename": "Banner",
+      "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/380x100_A5.mp4",
+      "banner_title": "A5",
+      "banner_url": "https://redirect.buaksib.com/?ck=line"
+    },
+    {
+      "__typename": "Banner",
+      "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2024/02/365kub_380x100.mp4",
+      "banner_title": "",
+      "banner_url": "https://redirect.buaksib.com/?ck=365kub"
+    }
+  ],
+  "worldcupWinnersPage": {
+    "isGoogleAd": false,
+    "rightSidebarBanners": [
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2022/08/Line-Buaksib-350x230-1.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=line"
+      }
+    ]
+  },
+  "popupBanner": {
+    "desktop": [
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/01/ad-gclub-new-532x400-1.mp4",
+        "banner_title": "",
+        "banner_url": "https://redirect.buaksib.com/?ck=gclubcasino"
+      }
+    ],
+    "mobile": [
+      {
+        "__typename": "Banner",
+        "banner_src": "https://newbackend.buaksib.com/wp-content/uploads/2023/01/ad-gclub-new-288x260-1.mp4",
+        "banner_title": "Gclub 8%",
+        "banner_url": "https://redirect.buaksib.com/?ck=gclubcasino"
+      }
+    ]
+  }
+}

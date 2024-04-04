@@ -1,0 +1,67 @@
+@use 'styles/variables' as variables;
+
+.root {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.btn {
+  background-color: transparent;
+  color: variables.$primary-colors-white;
+  border: 1px solid rgba(234, 232, 232, 0.2);
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px;
+  height: 32px;
+  width: 70px;
+}
+
+.rotate {
+  transform: rotate(180deg);
+  transition: transform 0.3s ease-in-out;
+}
+
+.dropdown {
+  position: absolute;
+  z-index: 1;
+  text-transform: uppercase;
+  border: 1px solid rgba(234, 232, 232, 0.2);
+  width: 100%;
+  max-width: 70px;
+  grid-template-columns: repeat(2, 1fr);
+  display: none;
+  background-color: variables.$primary-colors-dark;
+}
+
+.active {
+  display: grid;
+}
+
+.listMenu {
+  display: flex;
+  align-items: center;
+  border: 1px solid transparent;
+  margin-bottom: 5px;
+
+  &:hover {
+    border: 1px solid
+      rgba($color: variables.$primary-colors-light-grey, $alpha: 0.2);
+  }
+
+  &:hover .linkMenu {
+    color: variables.$primary-colors-white;
+    opacity: 1;
+  }
+}
+
+.linkMenu {
+  color: variables.$primary-colors-white;
+  opacity: 0.7;
+  font-size: 14px;
+  padding: 2px 0 3px 8px;
+  display: flex;
+}

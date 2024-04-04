@@ -1,0 +1,106 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.root {
+  margin-bottom: 40px;
+  color: variables.$primary-colors-2-000000;
+}
+
+.tab {
+  padding: 30px 16px 40px 16px;
+
+  @include breakpoints.mobile {
+    padding: 30px 36px 32px 36px;
+  }
+}
+
+.wrapperButton {
+  text-align: center;
+}
+
+.btnPrediction {
+  background-color: variables.$primary-colors-red;
+  border-radius: 4px;
+  color: variables.$primary-colors-white;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: normal;
+  height: 48px;
+  width: 184px;
+  max-width: unset;
+
+  &:hover {
+    background-color: variables.$primary-colors-red1;
+  }
+
+  &:disabled {
+    opacity: 0.5;
+  }
+
+  @include breakpoints.mobile {
+    width: 100%;
+  }
+}
+
+.shareLink {
+  display: inline-block;
+
+  @include breakpoints.mobile {
+    width: 100%;
+  }
+}
+
+.btnShare {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.textBtnShare {
+  margin-left: 8px;
+}
+
+.wrapperLinkView {
+  text-align: center;
+  position: absolute;
+  right: 24px;
+  bottom: 55px;
+
+  @include breakpoints.mobile {
+    position: unset;
+    margin-top: 24px;
+  }
+}
+
+.linkView {
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.29;
+  color: rgba(0, 0, 0, 0.85);
+  text-decoration: underline;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+.successModal {
+  padding: 8px 7.5px 1px 8.5px;
+  box-shadow: 0 8px 14px 0 rgba(0, 0, 0, 0.09);
+  background-color: variables.$primary-colors-white;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1;
+  color: variables.$primary-colors-darkGray6;
+  width: 317px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 22px auto 0;
+}

@@ -1,0 +1,61 @@
+@use 'styles/variables' as variables;
+
+.root {
+  position: relative;
+}
+
+.disabled {
+  opacity: 0.5;
+}
+
+.error {
+  border: solid 1px variables.$primary-colors-red !important;
+
+  &:focus-visible {
+    outline: solid 1px variables.$primary-colors-red;
+  }
+}
+
+.button {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  padding: 0;
+  background-color: transparent;
+  height: unset;
+  line-height: 1;
+
+  &:hover {
+    background-color: transparent;
+  }
+}
+
+.icon {
+  position: absolute;
+  top: 3.5px;
+  right: 1px;
+}
+
+.name {
+  text-transform: capitalize;
+  position: absolute;
+  top: -9px;
+  left: 12px;
+  background-color: variables.$primary-colors-white;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: variables.$primary-colors-red;
+  padding: 0 5px;
+}
+
+.p {
+  position: absolute;
+  left: 16px;
+  bottom: -20px;
+  white-space: nowrap;
+  color: variables.$primary-colors-red;
+}

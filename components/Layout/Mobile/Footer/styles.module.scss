@@ -1,0 +1,52 @@
+@use 'styles/variables' as variables;
+
+.root {
+  background-color: variables.$primary-colors-dark;
+  width: 100%;
+  color: variables.$primary-colors-white;
+  padding: 24px 0 40px 0;
+}
+
+.title {
+  color: variables.$primary-colors-white;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.86;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 32px;
+}
+
+.wrapperLogo {
+  align-items: center;
+  max-width: 165px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.wrapperSocials {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 16px;
+}
+
+.line {
+  background-color: variables.$primary-colors-gray;
+  height: 1px;
+  margin: 16px 0;
+}
+
+.copyright {
+  opacity: 0.7;
+  font-size: 14px;
+  font-weight: 300;
+  margin-top: 10px;
+}

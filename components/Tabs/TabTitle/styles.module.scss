@@ -1,0 +1,118 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.tabTitle {
+  margin-right: 8px;
+
+  &:last-of-type {
+    margin-right: 0;
+  }
+
+  @include breakpoints.mobile {
+    margin-right: 3px;
+  }
+}
+
+.tabTitleMenu {
+  margin: 0 0 24px 0;
+
+  &:last-of-type {
+    margin: 0;
+  }
+}
+
+.button {
+  background-color: variables.$primary-colors-white;
+  border: 1px solid variables.$primary-colors-gray-5;
+  border-bottom: unset;
+  width: 72px;
+  height: 53px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+
+  @include breakpoints.mobile {
+    width: 48px;
+    height: 40px;
+  }
+}
+
+.link {
+  width: unset;
+  height: unset;
+  border: unset;
+  background-color: #fff;
+  justify-content: start;
+  color: variables.$primary-colors-dark;
+  opacity: 0.7;
+}
+
+.active {
+  background-color: variables.$primary-colors-grey;
+  border: 1px solid transparent;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.linkText {
+  margin-left: 12px;
+}
+
+.tabsPredition {
+  margin-right: 4.25px;
+
+  .button {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.29;
+    color: rgba(0, 0, 0, 0.85);
+    width: 206px;
+    height: 56px;
+    border: none;
+    background-color: variables.$primary-colors-grey;
+    justify-content: flex-start;
+    padding: 10px 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+
+    @include breakpoints.mobile {
+      width: 60px;
+      padding: 0;
+      align-items: center;
+    }
+  }
+
+  .wrapperDate {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: normal;
+    color: variables.$primary-colors-2-000000;
+
+    @include breakpoints.mobile {
+      display: none;
+    }
+  }
+
+  .dateSeparator {
+    margin: 0 5px;
+  }
+
+  .activePrediction {
+    background-color: variables.$primary-colors-red;
+    color: variables.$primary-colors-white;
+
+    .wrapperDate {
+      color: variables.$primary-colors-white;
+    }
+  }
+
+  .noActivePrediction {
+    pointer-events: none;
+  }
+}

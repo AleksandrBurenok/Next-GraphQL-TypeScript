@@ -1,0 +1,18 @@
+@use 'styles/variables' as variables;
+
+.btn {
+  background-color: variables.$primary-colors-gray-4;
+  border: unset;
+  padding: 5px 21px;
+  font-size: 16px;
+  line-height: normal;
+  color: variables.$primary-colors-2-000000;
+  max-width: 120px;
+  height: 36px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: variables.$primary-colors-gray;
+    color: variables.$primary-colors-white;
+  }
+}

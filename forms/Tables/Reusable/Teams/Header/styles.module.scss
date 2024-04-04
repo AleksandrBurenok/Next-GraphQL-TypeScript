@@ -1,0 +1,131 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.header {
+  display: flex;
+  min-height: 34px;
+  margin: 0 0 2px 0;
+  color: variables.$primary-colors-gray-11;
+  background-color: variables.$primary-colors-gray-5;
+
+  @include breakpoints.tablet {
+    justify-content: center;
+    align-items: center;
+    padding: 0 200px;
+  }
+}
+
+.partLeft {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  min-width: 1px;
+  padding: 0 10px;
+  border-right: 4px solid variables.$primary-colors-white;
+
+  .title {
+    margin-left: 8px;
+    font-size: 16px;
+    font-weight: 700;
+    color: variables.$primary-colors-2-000000;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  @include breakpoints.tablet {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 200px;
+  }
+
+  @include breakpoints.downTablet {
+    border-right: unset;
+  }
+}
+
+.wrapperLeader {
+  display: none;
+
+  @include breakpoints.tablet {
+    display: flex;
+  }
+}
+
+.leader {
+  font-size: 14px;
+  @include breakpoints.tablet {
+    width: 90px;
+    max-width: 100%;
+    text-align: center;
+  }
+}
+
+.headerShare {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  right: 46px;
+  width: 46px;
+
+  @include breakpoints.tablet {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+  }
+
+  @include breakpoints.downTablet {
+    right: 0;
+  }
+}
+
+.headerShareFixture {
+  right: 0;
+}
+
+.shareTrigger {
+  border: unset;
+  background-color: transparent;
+  cursor: pointer;
+  line-height: 1;
+
+  &:hover {
+    .iconShare {
+      path:nth-child(2) {
+        fill: variables.$primary-colors-red;
+      }
+    }
+  }
+}
+
+.partRight {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  min-width: 1px;
+  padding: 0 10px;
+  border-left: 4px solid variables.$primary-colors-white;
+  max-width: 44px;
+
+  @include breakpoints.tablet {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    max-width: 46px;
+
+    .active {
+      color: variables.$primary-colors-red;
+    }
+  }
+}
+
+.iconStar {
+  cursor: pointer;
+  path {
+    fill: variables.$primary-colors-gray;
+  }
+}

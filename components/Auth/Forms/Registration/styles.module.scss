@@ -1,0 +1,103 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.wrapper {
+  padding: 40px 81px 24px 81px;
+
+  @include breakpoints.mobile {
+    padding: 40px 16px 24px 16px;
+  }
+}
+
+.wrapperText {
+  text-align: center;
+  margin-bottom: 40px;
+  color: variables.$primary-colors-2-000000;
+}
+
+.title {
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 1;
+
+  @include breakpoints.mobile {
+    font-size: 20px;
+  }
+}
+
+.field {
+  margin-bottom: 38px;
+
+  input {
+    border: solid 1px rgba(0, 0, 0, 0.5);
+    height: 48px;
+    width: 258px;
+    padding: 16px;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.85);
+
+    &::placeholder {
+      font-size: 16px;
+      font-weight: normal;
+      line-height: 1;
+      color: rgba(0, 0, 0, 0.85);
+      font-family: Kanit;
+    }
+  }
+}
+
+.button {
+  width: 100%;
+  max-width: 100%;
+  height: 48px;
+  border-radius: 4px;
+  background-color: variables.$primary-colors-red;
+  font-size: 18px;
+  font-weight: 500;
+  color: variables.$primary-colors-white;
+}
+
+.wrapperButton {
+  text-align: center;
+}
+
+.forgotButton {
+  font-size: 14px;
+  line-height: 1.29;
+  color: variables.$primary-colors-2-000000;
+  height: unset;
+  background-color: transparent;
+  padding: 0;
+
+  &:hover {
+    background-color: transparent;
+    color: variables.$primary-colors-gray-11;
+  }
+}
+
+.wrapperRegister {
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 24px 81px 40px 81px;
+  color: variables.$primary-colors-2-000000;
+  text-align: center;
+
+  @include breakpoints.mobile {
+    padding: 24px 16px 40px 16px;
+  }
+}
+
+.registerTitle {
+  font-size: 14px;
+  line-height: 1.29;
+  margin-bottom: 14px;
+}
+
+.loginButton {
+  margin-bottom: 16px;
+}
+
+.registerButton {
+  background-color: rgba(0, 0, 0, 0.5);
+}

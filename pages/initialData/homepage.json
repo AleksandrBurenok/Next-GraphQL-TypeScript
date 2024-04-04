@@ -1,0 +1,168 @@
+{
+  "highlights": {
+    "category": {
+      "__typename": "Category",
+      "posts": {
+        "__typename": "CategoryToPostConnection",
+        "edges": [
+          {
+            "__typename": "CategoryToPostConnectionEdge",
+            "node": {
+              "__typename": "Post",
+              "featuredImage": {
+                "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                "node": {
+                  "__typename": "MediaItem",
+                  "altText": "อินเตอร์ มิลาน พบ เจนัว",
+                  "guid": "https://newbackend.buaksib.com/wp-content/uploads/2024/03/Inter_Milan_Vs_Genoa_04_03_67.jpg"
+                }
+              },
+              "slug": "highlights-inter-milan-vs-genoa-04-03-2024",
+              "tags": {
+                "__typename": "PostToTagConnection",
+                "edges": []
+              },
+              "id": "cG9zdDo1OTkxMTA=",
+              "title": "อินเตอร์ มิลาน พบ เจนัว 04.03.2024 ไฮไลท์ฟุตบอล"
+            }
+          },
+          {
+            "__typename": "CategoryToPostConnectionEdge",
+            "node": {
+              "__typename": "Post",
+              "featuredImage": {
+                "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                "node": {
+                  "__typename": "MediaItem",
+                  "altText": "เชฟฟิลด์ ยูไนเต็ด พบ อาร์เซน่อล",
+                  "guid": "https://newbackend.buaksib.com/wp-content/uploads/2024/03/Sheffield_Vs_Arsenal_04_03_24.jpg"
+                }
+              },
+              "slug": "highlights-sheffield-vs-arsenal-04-03-2024",
+              "tags": {
+                "__typename": "PostToTagConnection",
+                "edges": [
+                  {
+                    "__typename": "PostToTagConnectionEdge",
+                    "node": {
+                      "__typename": "Tag",
+                      "name": "Premier League"
+                    }
+                  }
+                ]
+              },
+              "id": "cG9zdDo1OTkyMTY=",
+              "title": "เชฟฟิลด์ ยูไนเต็ด พบ อาร์เซน่อล 04.03.2024 ไฮไลท์ฟุตบอล"
+            }
+          },
+          {
+            "__typename": "CategoryToPostConnectionEdge",
+            "node": {
+              "__typename": "Post",
+              "featuredImage": {
+                "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge",
+                "node": {
+                  "__typename": "MediaItem",
+                  "altText": "อัล ไอน์ พบ อัล นาสเซอร์",
+                  "guid": "https://newbackend.buaksib.com/wp-content/uploads/2024/03/Al_Ain_Vs_Al_Nassr_04_03_24.jpg"
+                }
+              },
+              "slug": "highlights-al-ain-vs-al-nassr-04-03-2024",
+              "tags": {
+                "__typename": "PostToTagConnection",
+                "edges": [
+                  {
+                    "__typename": "PostToTagConnectionEdge",
+                    "node": {
+                      "__typename": "Tag",
+                      "name": "ไฮไลท์ฟุตบอล"
+                    }
+                  }
+                ]
+              },
+              "id": "cG9zdDo1OTkxNDk=",
+              "title": "อัล ไอน์ พบ อัล นาสเซอร์ 04.03.2024 ไฮไลท์ฟุตบอล"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "leagues": [
+    {
+      "__typename": "Category",
+      "databaseId": 16,
+      "slug": "bundesliga"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 8,
+      "slug": "premier-league"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 21240,
+      "slug": "world-cup"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 120377,
+      "slug": "uefa-euro"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 30,
+      "slug": "europa-league"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 28,
+      "slug": "la-liga"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 32,
+      "slug": "ligue-1"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 29,
+      "slug": "serie-a"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 652,
+      "slug": "fa-cup"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 31,
+      "slug": "champions-league"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 34,
+      "slug": "thai-premier-league"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 195451,
+      "slug": "national-team"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 195450,
+      "slug": "europa-conference-league"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 195452,
+      "slug": "other-league"
+    },
+    {
+      "__typename": "Category",
+      "databaseId": 195449,
+      "slug": "j-league"
+    }
+  ]
+}

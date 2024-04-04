@@ -1,0 +1,24 @@
+@use 'styles/breakpoints' as breakpoints;
+
+.bannerWrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 40px;
+}
+
+.link {
+  display: flex;
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+}
+
+@include breakpoints.mobile {
+  .bannerWrap {
+    margin-bottom: 0;
+  }
+}

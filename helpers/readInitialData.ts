@@ -1,0 +1,1 @@
+export { readInitialData } from '../readInitialData';

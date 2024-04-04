@@ -1,0 +1,114 @@
+@use 'styles/variables' as variables;
+@use 'styles/breakpoints' as breakpoints;
+
+.wrapperMobile {
+  display: flex;
+  align-items: center;
+  @include breakpoints.desktop {
+    display: none;
+  }
+}
+
+.root {
+  margin-bottom: 24px;
+}
+
+.wrapperTableTitle {
+  display: flex;
+  align-items: center;
+  height: 34px;
+  padding: 0 16px;
+  background-color: variables.$primary-colors-gray-5;
+}
+
+.tableTitle {
+  font-weight: 700;
+}
+
+.wrapperIcon {
+  background-color: variables.$primary-colors-white;
+  border-radius: 50%;
+  padding: 4px 3px;
+  margin-right: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lists {
+  list-style-type: none;
+}
+
+.list {
+  border-top: 1px solid variables.$primary-colors-gray-5;
+  padding: 10px;
+  font-size: 14px;
+  cursor: pointer;
+  display: block;
+
+  &:last-of-type {
+    border-bottom: 1px solid variables.$primary-colors-gray-5;
+  }
+
+  &:hover {
+    background-color: variables.$primary-colors-red3;
+    color: variables.$primary-colors-white;
+
+    .logo {
+      path {
+        fill: variables.$primary-colors-white;
+      }
+    }
+  }
+
+  @include breakpoints.downTablet {
+    padding: 6.5px 10px;
+  }
+}
+
+.logo {
+  path {
+    fill: variables.$primary-colors-red3;
+  }
+}
+
+.active {
+  background-color: variables.$primary-colors-red3;
+  color: variables.$primary-colors-white;
+
+  .logo {
+    path {
+      fill: variables.$primary-colors-white;
+    }
+  }
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  margin-left: 15px;
+}
+
+.buttonShow {
+  background-color: unset;
+  color: variables.$primary-colors-red1;
+  text-decoration: underline;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0;
+  margin: 10px 0 0 53px;
+  border: unset;
+  cursor: pointer;
+
+  &:hover {
+    background-color: unset;
+    color: variables.$primary-colors-red;
+  }
+
+  @include breakpoints.desktop {
+    margin-top: 16px;
+  }
+}

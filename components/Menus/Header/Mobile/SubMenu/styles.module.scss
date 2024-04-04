@@ -1,0 +1,95 @@
+@use 'styles/variables' as variables;
+
+.submenuItem {
+  flex-basis: 47%;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+
+.submenuTitle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid hsla(0, 0%, 100%, 0.3);
+  padding-bottom: 4px;
+}
+
+.link {
+  color: variables.$primary-colors-white;
+
+  &:hover {
+    color: variables.$primary-colors-white;
+    opacity: 0.8;
+  }
+}
+
+.wrapperImage {
+  display: flex;
+}
+
+.image {
+  margin-right: 8px;
+}
+
+.buttonArrow {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border: unset;
+  background-color: unset;
+  width: 48px;
+  height: 24px;
+  padding: 0;
+}
+
+.icon {
+  transform: rotate(180deg);
+  transition: transform 0.3s ease-in-out;
+}
+
+.submenuContent {
+  height: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+
+  .submenuTitle {
+    border-bottom: none;
+  }
+}
+
+.submenuItem.open {
+  margin-bottom: 0;
+
+  .submenuContent {
+    .wrapperImage {
+      span {
+        opacity: 0.8;
+      }
+    }
+  }
+
+  .submenuItem.open {
+    .wrapperImage {
+      span {
+        opacity: 1;
+      }
+    }
+  }
+
+  > .submenuContent {
+    height: auto;
+    margin: 16px 0;
+
+    .submenuContent {
+      .wrapperImage {
+        margin-bottom: 4px;
+
+        span {
+          opacity: 0.8;
+        }
+      }
+    }
+  }
+}
