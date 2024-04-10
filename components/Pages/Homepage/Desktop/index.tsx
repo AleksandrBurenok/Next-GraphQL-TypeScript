@@ -1,37 +1,30 @@
-import {
-  useMemo,
-  useRef,
-  MutableRefObject,
-  useState,
-  useCallback,
-  useEffect,
-} from 'react';
-import { useIntl } from 'react-intl';
-import dynamic from 'next/dynamic';
+import { useMemo, useRef, MutableRefObject, useState } from "react";
+import { useIntl } from "react-intl";
+import dynamic from "next/dynamic";
 
-import { Sections } from 'enums/path';
+import { Sections } from "enums/path";
 
-import { useOnScreen } from 'hooks';
+import { useOnScreen } from "hooks";
 
-import Seo from 'components/Seo';
-import Page from 'components/Page/Root';
-import { Desktop as TopBannersDesktop } from 'components/Banners/TopBanners';
-import Sidebar from 'components/Page/Sidebar';
-import Grid from 'components/Page/Grid';
-import MainContainer from 'components/Page/MainContainer';
-import SeoBlock from 'components/SeoBlock';
-import RightSidebarBanners from 'components/Banners/RightSidebarBanners';
-import NewsWidget from 'components/Shared/Widget/News';
-import TopHighlights from 'components/TopHighlights';
-import Tabs from 'components/Tabs/Desktop';
-import Tab from 'components/Tabs/Tab';
-import { Desktop as PopupBannerDesktop } from 'components/Banners/PopupBanner';
+import Seo from "components/Seo";
+import Page from "components/Page/Root";
+import { Desktop as TopBannersDesktop } from "components/Banners/TopBanners";
+import Sidebar from "components/Page/Sidebar";
+import Grid from "components/Page/Grid";
+import MainContainer from "components/Page/MainContainer";
+import SeoBlock from "components/SeoBlock";
+import RightSidebarBanners from "components/Banners/RightSidebarBanners";
+import NewsWidget from "components/Shared/Widget/News";
+import TopHighlights from "components/TopHighlights";
+import Tabs from "components/Tabs/Desktop";
+import Tab from "components/Tabs/Tab";
+import { Desktop as PopupBannerDesktop } from "components/Banners/PopupBanner";
 
-import { getPriorityLeagues, Props } from '../helpers';
+import { getPriorityLeagues, Props } from "../helpers";
 
-import styles from './styles.module.scss';
+import styles from "./styles.module.scss";
 
-const ClientPosts = dynamic(() => import('../../../Pages/Posts/Client'), {
+const ClientPosts = dynamic(() => import("../../../Pages/Posts/Client"), {
   ssr: false,
 });
 
@@ -55,26 +48,14 @@ export const Desktop = ({
     [priorityLeagues, leagues]
   );
 
-  const [s, setS] = useState();
-
-  const functionF = useCallback(() => {
-    fetch('https://jsonplaceholder.typicode.com/todos/1')
-      .then((data) => data.json())
-      .then((data) => setS(data));
-  }, []);
-
-  useEffect(() => {
-    functionF();
-  }, [functionF]);
-
   return (
     <>
       {page && (
         <>
-          <Seo {...page.seo} path={''} />
+          <Seo {...page.seo} path={""} />
           <Page>
-            {/* <TopBannersDesktop {...banners} />
-            <TopHighlights highlights={highlights} banners={banners} /> */}
+            <TopBannersDesktop {...banners} />
+            <TopHighlights highlights={highlights} banners={banners} />
             <Grid>
               <MainContainer className={styles.main}>
                 <div className={styles.firstPosts}>
@@ -134,12 +115,12 @@ export const Desktop = ({
               </MainContainer>
 
               <Sidebar>
-                {/* <RightSidebarBanners rightSidebar={banners.rightSidebar} /> */}
+                <RightSidebarBanners rightSidebar={banners.rightSidebar} />
                 {showBelowPosts && <NewsWidget />}
               </Sidebar>
             </Grid>
           </Page>
-          {/* <PopupBannerDesktop banners={banners} /> */}
+          <PopupBannerDesktop banners={banners} />
         </>
       )}
     </>
